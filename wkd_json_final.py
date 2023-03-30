@@ -11,7 +11,7 @@ import pandas as pd
 from datetime import datetime
 from datetime import date
 
-rozklad = pd.read_csv(r'C:\Users\hmackowski\Desktop\python scripts\wkd\wkd_gtfs\stop_times.txt', sep=',')
+rozklad = pd.read_csv(r'/home/humback/Pulpit/wkd/wkd_gtfs/stop_times.txt', sep=',')
 feed = gtfs_realtime_pb2.FeedMessage()
 url = 'https://mkuran.pl/gtfs/wkd.pb'
 
@@ -46,7 +46,8 @@ def gtfsRtUpdate(stop_id, direction):
     mask = merged_df['direction'] == direction
     merged_df=merged_df[mask]
     merged_df.set_index('id',inplace=True)
-    return merged_df.to_json('records')
+    #return merged_df.to_dict(orient='index')
+    return merged_df
 
 # %%
 if __name__ == "__main__":
