@@ -14,6 +14,10 @@ def hello():
     df=df.to_dict(orient="index")
     return jsonify(df)
 
+@app.route('/', methods=['GET'])
+def hello():
+    
+    return "Helllo!"
 
 
 if __name__ == '__main__':
