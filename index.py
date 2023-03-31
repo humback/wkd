@@ -6,13 +6,13 @@ import wkd_json_final
 app = Flask(__name__);
 
 
-#@app.route('/delay', methods=['GET'])
-#def hello():
- #   station=request.args.get('station')
-  #  direction=request.args.get('dir')
-   # df = wkd_json_final.gtfsRtUpdate(station,direction)
-    #df=df.to_dict(orient="index")
-    #return jsonify(df)
+@app.route('/delay', methods=['GET'])
+def hello():
+    station=request.args.get('station')
+    direction=request.args.get('dir')
+    df = wkd_json_final.gtfsRtUpdate(station,direction)
+    df=df.to_dict(orient="index")
+    return jsonify(df)
 
 @app.route('/', methods=['GET'])
 def home():
