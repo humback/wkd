@@ -1,12 +1,9 @@
 # %%
 from google.transit import gtfs_realtime_pb2
 from google.protobuf.json_format import MessageToJson
-
 import requests
-import time
 import pytz
 import json
-import numpy as np
 import pandas as pd
 from datetime import datetime
 from datetime import date
