@@ -8,7 +8,7 @@ import pandas as pd
 from datetime import datetime
 from datetime import date
 
-rozklad = pd.read_csv(r'/home/humback/Pulpit/wkd/wkd_gtfs/stop_times.txt', sep=',')
+rozklad = pd.read_csv(r'./wkd_gtfs/stop_times.txt', sep=',')
 feed = gtfs_realtime_pb2.FeedMessage()
 url = 'https://mkuran.pl/gtfs/wkd.pb'
 
