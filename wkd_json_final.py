@@ -32,7 +32,7 @@ def gtfsRtUpdate(stop_id, direction):
     actual = df[df['stopId'] == stop_id]
     merged_df = pd.merge(actual, rozklad, left_on=['id','stopId'], right_on=['trip_id','stop_id'], how='left')
     merged_df = merged_df.drop(columns=['trip_id','stop_id','departure_time'])
-    merged_df = merged_df.sort_values(by='departure.time')
+    
     merged_df['arrival_time'] = merged_df['arrival_time'].fillna(merged_df['departure.time'].apply(lambda x: x.strftime('%H:%M:%S')))
     merged_df['arrival_time'] = merged_df['arrival_time'].apply(scheduleDateTime)
     merged_df['delay']=merged_df['departure.time']-merged_df['arrival_time']
@@ -43,6 +43,7 @@ def gtfsRtUpdate(stop_id, direction):
     mask = merged_df['direction'] == direction
     merged_df=merged_df[mask]
     merged_df.set_index('id',inplace=True)
+    merged_df = merged_df.sort_values(by='departure.time')
     #return merged_df.to_dict(orient='index')
     return merged_df
 
