@@ -15,7 +15,7 @@ def hello():
     return jsonify(df)
 
 @app.route('/', methods=['GET'])
-def hello():
+def home():
     
     return "Helllo!"
 
