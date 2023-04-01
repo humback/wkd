@@ -39,12 +39,13 @@ def gtfsRtUpdate(stop_id, direction):
     merged_df['delay'] = merged_df['delay'].apply(lambda x: x.total_seconds() / 60)
     merged_df['direction'] = merged_df['id'].apply(lambda x: 'W' if int(x[2:]) % 2 == 0 else 'P')
     merged_df=merged_df[['direction','id','stopId','delay','arrival_time','departure.time']]
-
+    
     mask = merged_df['direction'] == direction
     merged_df=merged_df[mask]
     merged_df.set_index('id',inplace=True)
-    merged_df = merged_df.sort_values(by='departure.time')
+    
     #return merged_df.to_dict(orient='index')
+    merged_df.drop_duplicates()
     return merged_df
 
 # %%
