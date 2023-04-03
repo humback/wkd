@@ -12,7 +12,7 @@ def hello():
     station=request.args.get('station')
     direction=request.args.get('dir')
     df = wkd_json_final.gtfsRtUpdate(station,direction)
-    df=df.to_dict(orient="index")
+    df=df.to_dict(orient="records")
     return jsonify(df)
 
 @app.route('/', methods=['GET'])
