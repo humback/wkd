@@ -43,7 +43,7 @@ def gtfsRtUpdate(stop_id, direction):
     mask = merged_df['direction'] == direction
     merged_df=merged_df[mask]
     #merged_df.set_index('id',inplace=True)
-    merged_df.rename(columns = {'departure.time':'real_departure_time','arrival_time':'schedule_time'}, inplace = True)
+    merged_df.rename(columns = {'departure.time':'real_departure_time'}, inplace = True)
     merged_df.sort_values(by='departure_time', inplace=True)
     #return merged_df.to_dict(orient='index')
     merged_df.drop_duplicates()
