@@ -4,6 +4,7 @@ from google.protobuf.json_format import MessageToJson
 import requests
 import pytz
 import json
+import datetime
 import pandas as pd
 from datetime import datetime
 from datetime import date
@@ -18,6 +19,7 @@ def scheduleDateTime(stop_time):
     dt_with_time = datetime.combine(dt, time_obj)
     dt_with_time = pytz.timezone('Europe/Warsaw').localize(dt_with_time)
     return dt_with_time
+
 def gtfsRtUpdate(stop_id, direction):
     response = requests.get(url)
     feed.ParseFromString(response.content)
@@ -44,13 +46,19 @@ def gtfsRtUpdate(stop_id, direction):
 
     mask = merged_df['direction'] == direction
     merged_df=merged_df[mask]
-    #merged_df.set_index('id',inplace=True)
+    
     merged_df.rename(columns = {'departure.time':'realDepartureTime','arrival_time':'scheduleDepartureTime'}, inplace = True)
     merged_df.sort_values(by='realDepartureTime', inplace=True)
-    #return merged_df.to_dict(orient='index')
-    merged_df.drop_duplicates()
     
-    return merged_df
+    merged_df.drop_duplicates()
+    merged_df = merged_df.drop(columns=['direction','stopId'])
+
+    merged_dict=merged_df.to_dict(orient="records")
+    merged_dict = {"trains":merged_dict}
+    merged_dict["update"]=datetime.utcnow()
+    merged_dict["direction"]=direction
+    merged_dict["station"]=stop_id
+    return merged_dict
 
 # %%
 if __name__ == "__main__":
