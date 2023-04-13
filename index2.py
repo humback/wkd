@@ -16,7 +16,7 @@ def hello():
     df = wkd_json_final.gtfsRtUpdate(station,direction)
     df=df.to_dict(orient="records")
     df = {"root":df}
-    df["update"]=datetime.datetime.now()
+    df["update"]=datetime.datetime.utcnow()
     return jsonify(df)
 
 @app.route('/', methods=['GET'])
