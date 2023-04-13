@@ -3,6 +3,7 @@ from flask import jsonify
 from flask import Response
 import pandas as pd
 import wkd_json_final
+import json
 app = Flask(__name__);
 app.config['JSON_SORT_KEYS'] = False
 
@@ -13,6 +14,7 @@ def hello():
     direction=request.args.get('dir')
     df = wkd_json_final.gtfsRtUpdate(station,direction)
     df=df.to_dict(orient="records")
+    df=json.dump({'info': df}, f)
     return jsonify(df)
 
 @app.route('/', methods=['GET'])
