@@ -19,7 +19,7 @@ def hello():
     return jsonify(df)
 
 @app.route('/delay2', methods=['GET'])
-def hello():
+def hello2():
     station=request.args.get('station')
     direction=request.args.get('dir')
     df = wkd_json_final.gtfsRtUpdate(station,direction)
