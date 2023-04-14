@@ -16,12 +16,10 @@ def hello():
     df = wkd_json_final.gtfsRtUpdate(station,direction)
     return jsonify(df)
 
-
 @app.route('/', methods=['GET'])
 def home():
     
     return "Helllo!"
-
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5105,debug=True)
