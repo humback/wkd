@@ -16,12 +16,6 @@ def hello():
     df = wkd_json_final.gtfsRtUpdate(station,direction)
     return jsonify(df)
 
-@app.route('/delay2', methods=['GET'])
-def hello2():
-    station=request.args.get('station')
-    direction=request.args.get('dir')
-    df = wkd_json_final.gtfsRtUpdate(station,direction)
-    return jsonify(df)
 
 @app.route('/', methods=['GET'])
 def home():
@@ -29,6 +23,6 @@ def home():
     return "Helllo!"
 
 
-#if __name__ == '__main__':
-   # app.run(host='0.0.0.0', port=5105,debug=True)
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5105,debug=True)
     
