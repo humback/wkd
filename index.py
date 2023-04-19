@@ -4,6 +4,7 @@ from flask import jsonify
 from flask import Response
 import pandas as pd
 import wkd_json_final
+import station_list
 import json
 app = Flask(__name__);
 app.config['JSON_SORT_KEYS'] = False
@@ -20,6 +21,11 @@ def hello():
 def home():
     
     return "Helllo!"
+
+@app.route('/stations', methods=['GET'])
+def stations():
+    stations=station_list.stationList()
+    return stations
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5105,debug=True)
