@@ -19,15 +19,24 @@ def scheduleDateTime(stop_time):
     dt_with_time = datetime.combine(dt, time_obj)
     dt_with_time = pytz.timezone('Europe/Warsaw').localize(dt_with_time)
     return dt_with_time
+def get_direction(x):
+    
+    try:
+        num = int(x.split("D-")[1])
+        #print(num)
+        return 'W' if num % 2 == 0 else 'P'
+    except (ValueError, IndexError):
+        return None
 
 def gtfsRtUpdate(stop_id, direction):
     response = requests.get(url)
+    
     feed.ParseFromString(response.content)
 
     json_wkd = MessageToJson(feed)
     json_wkd=json.loads(json_wkd)
     json_wkd=json_wkd['entity']
-
+    #print(json_wkd)
     df = pd.json_normalize(json_wkd, record_path=['tripUpdate','stopTimeUpdate'],meta=['id'])
     tz = pytz.timezone('Europe/Warsaw')
     df['departure.time'] = pd.to_datetime(df['departure.time'], unit='s').apply(lambda x: pd.Timestamp(x).tz_localize(None).tz_localize('UTC').tz_convert(tz))
@@ -39,7 +48,8 @@ def gtfsRtUpdate(stop_id, direction):
     merged_df['arrival_time'] = merged_df['arrival_time'].apply(scheduleDateTime)
     merged_df['delay']=merged_df['departure.time']-merged_df['arrival_time']
     merged_df['delay'] = merged_df['delay'].apply(lambda x: x.total_seconds() / 60)
-    merged_df['direction'] = merged_df['id'].apply(lambda x: 'W' if int(x[2:]) % 2 == 0 else 'P')
+    merged_df['id'] = merged_df['id'].apply(lambda x: x.split(":")[1])
+    merged_df['direction'] = merged_df['id'].apply(get_direction)
     merged_df=merged_df[['id','stopId','direction','delay','arrival_time','departure.time']]
 
     #merged_df['arrival_time'] = merged_df['arrival_time'].apply(lambda x: x.int(datetime_obj.timestamp()))
