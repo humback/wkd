@@ -32,9 +32,10 @@ def gtfsRtUpdate(stop_id, direction):
     response = requests.get(url)
     
     feed.ParseFromString(response.content)
-
+    
     json_wkd = MessageToJson(feed)
     json_wkd=json.loads(json_wkd)
+    print(json_wkd)
     json_wkd=json_wkd['entity']
     #print(json_wkd)
     df = pd.json_normalize(json_wkd, record_path=['tripUpdate','stopTimeUpdate'],meta=['id'])
@@ -68,6 +69,7 @@ def gtfsRtUpdate(stop_id, direction):
     merged_dict["update"]=datetime.utcnow()
     merged_dict["direction"]=direction
     merged_dict["station"]=stop_id
+    merged_dict.drop_duplicates()
     return merged_dict
 
 # %%
