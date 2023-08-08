@@ -51,7 +51,7 @@ def gtfsRtUpdate(stop_id, direction):
     
     print("-----------------------------------------------------------------")
     print (actual)
-    actual["id"] = actual["id"].apply(lambda x: x[11:])
+    #actual["id"] = actual["id"].apply(lambda x: x[11:])
     print("-----------------------------------------------------------------")
     print (actual)
     print (rozklad)
