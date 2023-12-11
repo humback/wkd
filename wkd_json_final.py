@@ -64,7 +64,7 @@ def gtfsRtUpdate(stop_id, direction):
     merged_df['delay']=merged_df['departure.time']-merged_df['arrival_time']
     merged_df['delay'] = merged_df['delay'].apply(lambda x: x.total_seconds() / 60)
     
-   # merged_df['id'] = merged_df['id'].apply(lambda x: x.split(":")[1])
+    merged_df['id'] = merged_df['id'].apply(lambda x: x.split(":")[1])
     merged_df['direction'] = merged_df['id'].apply(get_direction)
     merged_df=merged_df[['id','stopId','direction','delay','arrival_time','departure.time']]
     print (f"merged_df 1:{merged_df}")
