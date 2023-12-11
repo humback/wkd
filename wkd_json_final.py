@@ -63,16 +63,16 @@ def gtfsRtUpdate(stop_id, direction):
     merged_df['arrival_time'] = merged_df['arrival_time'].apply(scheduleDateTime)
     merged_df['delay']=merged_df['departure.time']-merged_df['arrival_time']
     merged_df['delay'] = merged_df['delay'].apply(lambda x: x.total_seconds() / 60)
-    #merged_df['id'] = merged_df['id'].apply(lambda x: x.split(":")[1])
+    merged_df['id'] = merged_df['id'].apply(lambda x: x.split(":")[1])
     merged_df['direction'] = merged_df['id'].apply(get_direction)
     merged_df=merged_df[['id','stopId','direction','delay','arrival_time','departure.time']]
-    print (merged_df)
+    print (f"merged_df 1:{merged_df}")
     #merged_df['arrival_time'] = merged_df['arrival_time'].apply(lambda x: x.int(datetime_obj.timestamp()))
     
     mask = merged_df['direction'] == direction
     merged_df=merged_df[mask]
     print (mask)
-    print (merged_df)
+    print (f"merged_df 2:{merged_df}")
     merged_df.rename(columns = {'departure.time':'realDepartureTime','arrival_time':'scheduleDepartureTime'}, inplace = True)
     merged_df.sort_values(by='realDepartureTime', inplace=True)
     
