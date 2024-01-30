@@ -56,7 +56,7 @@ def gtfsRtUpdate(stop_id, direction):
     print (actual)
     print (rozklad)
     merged_df = pd.merge(actual, rozklad, left_on=['id','stopId'], right_on=['trip_id','stop_id'], how='left')
-    print (merged_df)
+    print ("XX",merged_df)
     merged_df = merged_df.drop(columns=['trip_id','stop_id','departure_time'])
     
     merged_df['arrival_time'] = merged_df['arrival_time'].fillna(merged_df['departure.time'].apply(lambda x: x.strftime('%H:%M:%S')))
@@ -64,7 +64,7 @@ def gtfsRtUpdate(stop_id, direction):
     merged_df['delay']=merged_df['departure.time']-merged_df['arrival_time']
     merged_df['delay'] = merged_df['delay'].apply(lambda x: x.total_seconds() / 60)
     
-    merged_df['id'] = merged_df['id'].apply(lambda x: x.split(":")[1])
+    #merged_df['id'] = merged_df['id'].apply(lambda x: x.split(":")[1])
     merged_df['direction'] = merged_df['id'].apply(get_direction)
     merged_df=merged_df[['id','stopId','direction','delay','arrival_time','departure.time']]
     print (f"merged_df 1:{merged_df}")
