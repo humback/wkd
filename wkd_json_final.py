@@ -25,8 +25,9 @@ def get_direction(x):
     try:
        
         #num = int(x.split("D-")[1])
-        num = int(x[2:10])
-        #print(num)
+        #num = int(x[2:10])
+        num = int(x.split('_')[0])
+        print("---------------------"+str(num))
         return 'W' if num % 2 == 0 else 'P'
     except (ValueError, IndexError):
         return None
