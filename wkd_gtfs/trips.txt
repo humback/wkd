@@ -1,285 +1,883 @@
 route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,shape_id,wheelchair_accessible,bikes_allowed
-A1,C,C-102,Warszawa Śródmieście WKD,102,1,0,1,1
-A1,C,C-104,Warszawa Śródmieście WKD,104,1,0,1,1
-ZA12,C,C-5300,Podkowa Leśna Główna,5300,1,1,1,2
-A1,C,C-106,Warszawa Śródmieście WKD,106,1,0,1,1
-A1,C,C-108,Warszawa Śródmieście WKD,108,1,0,1,1
-A1,C,C-304,Warszawa Śródmieście WKD,304,1,2,1,1
-ZA12,C,C-5302,Podkowa Leśna Główna,5302,1,1,1,2
-A1,C,C-110,Warszawa Śródmieście WKD,110,1,0,1,1
-A1,C,C-306,Warszawa Śródmieście WKD,306,1,2,1,1
-A1,C,C-308,Warszawa Śródmieście WKD,308,1,2,1,1
-ZA12,C,C-5304,Podkowa Leśna Główna,5304,1,1,1,2
-A1,C,C-112,Warszawa Śródmieście WKD,112,1,0,1,1
-A1,C,C-310,Warszawa Śródmieście WKD,310,1,2,1,1
-A1,C,C-312,Warszawa Śródmieście WKD,312,1,2,1,1
-ZA12,C,C-5306,Podkowa Leśna Główna,5306,1,1,1,2
-A1,C,C-114,Warszawa Śródmieście WKD,114,1,0,1,1
-A1,C,C-314,Warszawa Śródmieście WKD,314,1,2,1,1
-A1,C,C-316,Warszawa Śródmieście WKD,316,1,2,1,1
-ZA12,C,C-5308,Podkowa Leśna Główna,5308,1,1,1,2
-A1,C,C-116,Warszawa Śródmieście WKD,116,1,0,1,1
-A1,C,C-318,Warszawa Śródmieście WKD,318,1,2,1,1
-A1,C,C-320,Warszawa Śródmieście WKD,320,1,2,1,1
-ZA12,C,C-5310,Podkowa Leśna Główna,5310,1,1,1,2
-A1,C,C-118,Warszawa Śródmieście WKD,118,1,0,1,1
-A1,C,C-322,Warszawa Śródmieście WKD,322,1,2,1,1
-A1,C,C-324,Warszawa Śródmieście WKD,324,1,2,1,1
-ZA12,C,C-5312,Podkowa Leśna Główna,5312,1,1,1,2
-A1,C,C-120,Warszawa Śródmieście WKD,120,1,0,1,1
-A1,C,C-326,Warszawa Śródmieście WKD,326,1,2,1,1
-A1,C,C-328,Warszawa Śródmieście WKD,328,1,2,1,1
-ZA12,C,C-5314,Podkowa Leśna Główna,5314,1,1,1,2
-A1,C,C-122,Warszawa Śródmieście WKD,122,1,0,1,1
-A1,C,C-330,Warszawa Śródmieście WKD,330,1,2,1,1
-A1,C,C-332,Warszawa Śródmieście WKD,332,1,2,1,1
-ZA12,C,C-5316,Podkowa Leśna Główna,5316,1,1,1,2
-A1,C,C-124,Warszawa Śródmieście WKD,124,1,0,1,1
-A1,C,C-334,Warszawa Śródmieście WKD,334,1,2,1,1
-A1,C,C-336,Warszawa Śródmieście WKD,336,1,2,1,1
-ZA12,C,C-5318,Podkowa Leśna Główna,5318,1,1,1,2
-A1,C,C-126,Warszawa Śródmieście WKD,126,1,0,1,1
-A1,C,C-338,Warszawa Śródmieście WKD,338,1,2,1,1
-A1,C,C-340,Warszawa Śródmieście WKD,340,1,2,1,1
-ZA12,C,C-5320,Podkowa Leśna Główna,5320,1,1,1,2
-A1,C,C-128,Warszawa Śródmieście WKD,128,1,0,1,1
-A1,C,C-342,Warszawa Śródmieście WKD,342,1,2,1,1
-A1,C,C-344,Warszawa Śródmieście WKD,344,1,2,1,1
-ZA12,C,C-5322,Podkowa Leśna Główna,5322,1,1,1,2
-A1,C,C-130,Warszawa Śródmieście WKD,130,1,0,1,1
-A1,C,C-346,Warszawa Śródmieście WKD,346,1,2,1,1
-A1,C,C-348,Warszawa Śródmieście WKD,348,1,2,1,1
-ZA12,C,C-5324,Podkowa Leśna Główna,5324,1,1,1,2
-A1,C,C-132,Warszawa Śródmieście WKD,132,1,0,1,1
-A1,C,C-350,Warszawa Śródmieście WKD,350,1,2,1,1
-A1,C,C-352,Warszawa Śródmieście WKD,352,1,2,1,1
-ZA12,C,C-5326,Podkowa Leśna Główna,5326,1,1,1,2
-A1,C,C-134,Warszawa Śródmieście WKD,134,1,0,1,1
-A1,C,C-354,Warszawa Śródmieście WKD,354,1,2,1,1
-A1,C,C-356,Warszawa Śródmieście WKD,356,1,2,1,1
-ZA12,C,C-5328,Podkowa Leśna Główna,5328,1,1,1,2
-A1,C,C-136,Warszawa Śródmieście WKD,136,1,0,1,1
-A1,C,C-358,Warszawa Śródmieście WKD,358,1,2,1,1
-A1,C,C-360,Warszawa Śródmieście WKD,360,1,2,1,1
-ZA12,C,C-5330,Podkowa Leśna Główna,5330,1,1,1,2
-A1,C,C-138,Warszawa Śródmieście WKD,138,1,0,1,1
-A1,C,C-362,Warszawa Śródmieście WKD,362,1,2,1,1
-A1,C,C-300,Warszawa Śródmieście WKD,300,1,2,1,1
-A1,C,C-100,Warszawa Śródmieście WKD,100,1,0,1,1
-A1,C,C-302,Warszawa Śródmieście WKD,302,1,2,1,1
-A1,D,D-102,Warszawa Śródmieście WKD,102,1,0,1,1
-A1,D,D-104,Warszawa Śródmieście WKD,104,1,0,1,1
-ZA12,D,D-5300,Podkowa Leśna Główna,5300,1,1,1,2
-A1,D,D-106,Warszawa Śródmieście WKD,106,1,0,1,1
-A1,D,D-108,Warszawa Śródmieście WKD,108,1,0,1,1
-A1,D,D-304,Warszawa Śródmieście WKD,304,1,2,1,1
-ZA12,D,D-5302,Podkowa Leśna Główna,5302,1,1,1,2
-A1,D,D-110,Warszawa Śródmieście WKD,110,1,0,1,1
-A1,D,D-306,Warszawa Śródmieście WKD,306,1,2,1,1
-A1,D,D-308,Warszawa Śródmieście WKD,308,1,2,1,1
-ZA12,D,D-5304,Podkowa Leśna Główna,5304,1,1,1,2
-A1,D,D-112,Warszawa Śródmieście WKD,112,1,0,1,1
-A1,D,D-310,Warszawa Śródmieście WKD,310,1,2,1,1
-A1,D,D-312,Warszawa Śródmieście WKD,312,1,2,1,1
-ZA12,D,D-5306,Podkowa Leśna Główna,5306,1,1,1,2
-A1,D,D-114,Warszawa Śródmieście WKD,114,1,0,1,1
-A1,D,D-314,Warszawa Śródmieście WKD,314,1,2,1,1
-A1,D,D-316,Warszawa Śródmieście WKD,316,1,2,1,1
-ZA12,D,D-5308,Podkowa Leśna Główna,5308,1,1,1,2
-A1,D,D-3116,Warszawa Śródmieście WKD,3116,1,2,1,1
-ZA1,D,D-5100,Podkowa Leśna Główna,5100,1,3,1,2
-A1,D,D-318,Warszawa Śródmieście WKD,318,1,2,1,1
-A1,D,D-320,Warszawa Śródmieście WKD,320,1,2,1,1
-ZA12,D,D-5310,Podkowa Leśna Główna,5310,1,1,1,2
-A1,D,D-3118,Warszawa Śródmieście WKD,3118,1,2,1,1
-ZA1,D,D-5102,Podkowa Leśna Główna,5102,1,3,1,2
-A1,D,D-322,Warszawa Śródmieście WKD,322,1,2,1,1
-A1,D,D-324,Warszawa Śródmieście WKD,324,1,2,1,1
-ZA12,D,D-5312,Podkowa Leśna Główna,5312,1,1,1,2
-A1,D,D-3120,Warszawa Śródmieście WKD,3120,1,2,1,1
-ZA1,D,D-5104,Podkowa Leśna Główna,5104,1,3,1,2
-A1,D,D-326,Warszawa Śródmieście WKD,326,1,2,1,1
-A1,D,D-328,Warszawa Śródmieście WKD,328,1,2,1,1
-ZA12,D,D-5314,Podkowa Leśna Główna,5314,1,1,1,2
-A1,D,D-3122,Warszawa Śródmieście WKD,3122,1,2,1,1
-ZA1,D,D-5106,Podkowa Leśna Główna,5106,1,3,1,2
-A1,D,D-330,Warszawa Śródmieście WKD,330,1,2,1,1
-A1,D,D-332,Warszawa Śródmieście WKD,332,1,2,1,1
-ZA12,D,D-5316,Podkowa Leśna Główna,5316,1,1,1,2
-A1,D,D-3124,Warszawa Śródmieście WKD,3124,1,2,1,1
-ZA1,D,D-5108,Podkowa Leśna Główna,5108,1,3,1,2
-A1,D,D-334,Warszawa Śródmieście WKD,334,1,2,1,1
-A1,D,D-336,Warszawa Śródmieście WKD,336,1,2,1,1
-ZA12,D,D-5318,Podkowa Leśna Główna,5318,1,1,1,2
-A1,D,D-3126,Warszawa Śródmieście WKD,3126,1,2,1,1
-ZA1,D,D-5110,Podkowa Leśna Główna,5110,1,3,1,2
-A1,D,D-338,Warszawa Śródmieście WKD,338,1,2,1,1
-A1,D,D-340,Warszawa Śródmieście WKD,340,1,2,1,1
-ZA12,D,D-5320,Podkowa Leśna Główna,5320,1,1,1,2
-A1,D,D-128,Warszawa Śródmieście WKD,128,1,0,1,1
-A1,D,D-342,Warszawa Śródmieście WKD,342,1,2,1,1
-A1,D,D-344,Warszawa Śródmieście WKD,344,1,2,1,1
-ZA12,D,D-5322,Podkowa Leśna Główna,5322,1,1,1,2
-A1,D,D-130,Warszawa Śródmieście WKD,130,1,0,1,1
-A1,D,D-346,Warszawa Śródmieście WKD,346,1,2,1,1
-A1,D,D-348,Warszawa Śródmieście WKD,348,1,2,1,1
-ZA12,D,D-5324,Podkowa Leśna Główna,5324,1,1,1,2
-A1,D,D-132,Warszawa Śródmieście WKD,132,1,0,1,1
-A1,D,D-350,Warszawa Śródmieście WKD,350,1,2,1,1
-A1,D,D-352,Warszawa Śródmieście WKD,352,1,2,1,1
-ZA12,D,D-5326,Podkowa Leśna Główna,5326,1,1,1,2
-A1,D,D-134,Warszawa Śródmieście WKD,134,1,0,1,1
-A1,D,D-354,Warszawa Śródmieście WKD,354,1,2,1,1
-A1,D,D-356,Warszawa Śródmieście WKD,356,1,2,1,1
-ZA12,D,D-5328,Podkowa Leśna Główna,5328,1,1,1,2
-A1,D,D-136,Warszawa Śródmieście WKD,136,1,0,1,1
-A1,D,D-358,Warszawa Śródmieście WKD,358,1,2,1,1
-A1,D,D-360,Warszawa Śródmieście WKD,360,1,2,1,1
-ZA12,D,D-5330,Podkowa Leśna Główna,5330,1,1,1,2
-A1,D,D-138,Warszawa Śródmieście WKD,138,1,0,1,1
-A1,D,D-362,Warszawa Śródmieście WKD,362,1,2,1,1
-A1,D,D-300,Warszawa Śródmieście WKD,300,1,2,1,1
-A1,D,D-100,Warszawa Śródmieście WKD,100,1,0,1,1
-A1,D,D-302,Warszawa Śródmieście WKD,302,1,2,1,1
-A1,C,C-301,Podkowa Leśna Główna,301,0,4,1,1
-ZA12,C,C-5301,Milanówek Grudów,5301,0,5,1,2
-A1,C,C-107,Grodzisk Mazowiecki Radońska,107,0,6,1,1
-A1,C,C-303,Podkowa Leśna Główna,303,0,4,1,1
-A1,C,C-305,Podkowa Leśna Główna,305,0,4,1,1
-ZA12,C,C-5303,Milanówek Grudów,5303,0,5,1,2
-A1,C,C-109,Grodzisk Mazowiecki Radońska,109,0,6,1,1
-A1,C,C-307,Podkowa Leśna Główna,307,0,4,1,1
-A1,C,C-309,Podkowa Leśna Główna,309,0,4,1,1
-ZA12,C,C-5305,Milanówek Grudów,5305,0,5,1,2
-A1,C,C-111,Grodzisk Mazowiecki Radońska,111,0,6,1,1
-A1,C,C-311,Podkowa Leśna Główna,311,0,4,1,1
-A1,C,C-313,Podkowa Leśna Główna,313,0,4,1,1
-ZA12,C,C-5307,Milanówek Grudów,5307,0,5,1,2
-A1,C,C-113,Grodzisk Mazowiecki Radońska,113,0,6,1,1
-A1,C,C-315,Podkowa Leśna Główna,315,0,4,1,1
-A1,C,C-317,Podkowa Leśna Główna,317,0,4,1,1
-ZA12,C,C-5309,Milanówek Grudów,5309,0,5,1,2
-A1,C,C-115,Grodzisk Mazowiecki Radońska,115,0,6,1,1
-A1,C,C-319,Podkowa Leśna Główna,319,0,4,1,1
-A1,C,C-321,Podkowa Leśna Główna,321,0,4,1,1
-ZA12,C,C-5311,Milanówek Grudów,5311,0,5,1,2
-A1,C,C-117,Grodzisk Mazowiecki Radońska,117,0,6,1,1
-A1,C,C-323,Podkowa Leśna Główna,323,0,4,1,1
-A1,C,C-325,Podkowa Leśna Główna,325,0,4,1,1
-ZA12,C,C-5313,Milanówek Grudów,5313,0,5,1,2
-A1,C,C-119,Grodzisk Mazowiecki Radońska,119,0,6,1,1
-A1,C,C-327,Podkowa Leśna Główna,327,0,4,1,1
-A1,C,C-329,Podkowa Leśna Główna,329,0,4,1,1
-ZA12,C,C-5315,Milanówek Grudów,5315,0,5,1,2
-A1,C,C-121,Grodzisk Mazowiecki Radońska,121,0,6,1,1
-A1,C,C-331,Podkowa Leśna Główna,331,0,4,1,1
-A1,C,C-333,Podkowa Leśna Główna,333,0,4,1,1
-ZA12,C,C-5317,Milanówek Grudów,5317,0,5,1,2
-A1,C,C-123,Grodzisk Mazowiecki Radońska,123,0,6,1,1
-A1,C,C-335,Podkowa Leśna Główna,335,0,4,1,1
-A1,C,C-337,Podkowa Leśna Główna,337,0,4,1,1
-ZA12,C,C-5319,Milanówek Grudów,5319,0,5,1,2
-A1,C,C-125,Grodzisk Mazowiecki Radońska,125,0,6,1,1
-A1,C,C-339,Podkowa Leśna Główna,339,0,4,1,1
-A1,C,C-341,Podkowa Leśna Główna,341,0,4,1,1
-ZA12,C,C-5321,Milanówek Grudów,5321,0,5,1,2
-A1,C,C-127,Grodzisk Mazowiecki Radońska,127,0,6,1,1
-A1,C,C-343,Podkowa Leśna Główna,343,0,4,1,1
-A1,C,C-345,Podkowa Leśna Główna,345,0,4,1,1
-ZA12,C,C-5323,Milanówek Grudów,5323,0,5,1,2
-A1,C,C-129,Grodzisk Mazowiecki Radońska,129,0,6,1,1
-A1,C,C-347,Podkowa Leśna Główna,347,0,4,1,1
-A1,C,C-349,Podkowa Leśna Główna,349,0,4,1,1
-ZA12,C,C-5325,Milanówek Grudów,5325,0,5,1,2
-A1,C,C-131,Grodzisk Mazowiecki Radońska,131,0,6,1,1
-A1,C,C-351,Podkowa Leśna Główna,351,0,4,1,1
-A1,C,C-353,Podkowa Leśna Główna,353,0,4,1,1
-ZA12,C,C-5327,Milanówek Grudów,5327,0,5,1,2
-A1,C,C-133,Grodzisk Mazowiecki Radońska,133,0,6,1,1
-A1,C,C-355,Podkowa Leśna Główna,355,0,4,1,1
-A1,C,C-357,Podkowa Leśna Główna,357,0,4,1,1
-ZA12,C,C-5329,Milanówek Grudów,5329,0,5,1,2
-A1,C,C-135,Grodzisk Mazowiecki Radońska,135,0,6,1,1
-A1,C,C-359,Podkowa Leśna Główna,359,0,4,1,1
-A1,C,C-361,Podkowa Leśna Główna,361,0,4,1,1
-ZA12,C,C-5331,Milanówek Grudów,5331,0,5,1,2
-A1,C,C-137,Grodzisk Mazowiecki Radońska,137,0,6,1,1
-A1,C,C-363,Podkowa Leśna Główna,363,0,4,1,1
-A1,C,C-139,Grodzisk Mazowiecki Radońska,139,0,6,1,1
-A1,C,C-101,Grodzisk Mazowiecki Radońska,101,0,6,1,1
-A1,C,C-103,Grodzisk Mazowiecki Radońska,103,0,6,1,1
-A1,C,C-105,Grodzisk Mazowiecki Radońska,105,0,6,1,1
-A1,D,D-301,Podkowa Leśna Główna,301,0,4,1,1
-ZA12,D,D-5301,Milanówek Grudów,5301,0,5,1,2
-A1,D,D-107,Grodzisk Mazowiecki Radońska,107,0,6,1,1
-A1,D,D-303,Podkowa Leśna Główna,303,0,4,1,1
-A1,D,D-305,Podkowa Leśna Główna,305,0,4,1,1
-ZA12,D,D-5303,Milanówek Grudów,5303,0,5,1,2
-A1,D,D-109,Grodzisk Mazowiecki Radońska,109,0,6,1,1
-A1,D,D-307,Podkowa Leśna Główna,307,0,4,1,1
-A1,D,D-309,Podkowa Leśna Główna,309,0,4,1,1
-ZA12,D,D-5305,Milanówek Grudów,5305,0,5,1,2
-A1,D,D-111,Grodzisk Mazowiecki Radońska,111,0,6,1,1
-A1,D,D-311,Podkowa Leśna Główna,311,0,4,1,1
-A1,D,D-313,Podkowa Leśna Główna,313,0,4,1,1
-ZA12,D,D-5307,Milanówek Grudów,5307,0,5,1,2
-A1,D,D-3113,Podkowa Leśna Główna,3113,0,4,1,1
-ZA1,D,D-5101,Grodzisk Mazowiecki Radońska,5101,0,7,1,2
-A1,D,D-315,Podkowa Leśna Główna,315,0,4,1,1
-A1,D,D-317,Podkowa Leśna Główna,317,0,4,1,1
-ZA12,D,D-5309,Milanówek Grudów,5309,0,5,1,2
-A1,D,D-3115,Podkowa Leśna Główna,3115,0,4,1,1
-ZA1,D,D-5103,Grodzisk Mazowiecki Radońska,5103,0,7,1,2
-A1,D,D-319,Podkowa Leśna Główna,319,0,4,1,1
-A1,D,D-321,Podkowa Leśna Główna,321,0,4,1,1
-ZA12,D,D-5311,Milanówek Grudów,5311,0,5,1,2
-A1,D,D-3117,Podkowa Leśna Główna,3117,0,4,1,1
-ZA1,D,D-5105,Grodzisk Mazowiecki Radońska,5105,0,7,1,2
-A1,D,D-323,Podkowa Leśna Główna,323,0,4,1,1
-A1,D,D-325,Podkowa Leśna Główna,325,0,4,1,1
-ZA12,D,D-5313,Milanówek Grudów,5313,0,5,1,2
-A1,D,D-3119,Podkowa Leśna Główna,3119,0,4,1,1
-ZA1,D,D-5107,Grodzisk Mazowiecki Radońska,5107,0,7,1,2
-A1,D,D-327,Podkowa Leśna Główna,327,0,4,1,1
-A1,D,D-329,Podkowa Leśna Główna,329,0,4,1,1
-ZA12,D,D-5315,Milanówek Grudów,5315,0,5,1,2
-A1,D,D-3121,Podkowa Leśna Główna,3121,0,4,1,1
-ZA1,D,D-5109,Grodzisk Mazowiecki Radońska,5109,0,7,1,2
-A1,D,D-331,Podkowa Leśna Główna,331,0,4,1,1
-A1,D,D-333,Podkowa Leśna Główna,333,0,4,1,1
-ZA12,D,D-5317,Milanówek Grudów,5317,0,5,1,2
-A1,D,D-3123,Podkowa Leśna Główna,3123,0,4,1,1
-ZA1,D,D-5111,Grodzisk Mazowiecki Radońska,5111,0,7,1,2
-A1,D,D-335,Podkowa Leśna Główna,335,0,4,1,1
-A1,D,D-337,Podkowa Leśna Główna,337,0,4,1,1
-ZA12,D,D-5319,Milanówek Grudów,5319,0,5,1,2
-A1,D,D-125,Grodzisk Mazowiecki Radońska,125,0,6,1,1
-A1,D,D-339,Podkowa Leśna Główna,339,0,4,1,1
-A1,D,D-341,Podkowa Leśna Główna,341,0,4,1,1
-ZA12,D,D-5321,Milanówek Grudów,5321,0,5,1,2
-A1,D,D-127,Grodzisk Mazowiecki Radońska,127,0,6,1,1
-A1,D,D-343,Podkowa Leśna Główna,343,0,4,1,1
-A1,D,D-345,Podkowa Leśna Główna,345,0,4,1,1
-ZA12,D,D-5323,Milanówek Grudów,5323,0,5,1,2
-A1,D,D-129,Grodzisk Mazowiecki Radońska,129,0,6,1,1
-A1,D,D-347,Podkowa Leśna Główna,347,0,4,1,1
-A1,D,D-349,Podkowa Leśna Główna,349,0,4,1,1
-ZA12,D,D-5325,Milanówek Grudów,5325,0,5,1,2
-A1,D,D-131,Grodzisk Mazowiecki Radońska,131,0,6,1,1
-A1,D,D-351,Podkowa Leśna Główna,351,0,4,1,1
-A1,D,D-353,Podkowa Leśna Główna,353,0,4,1,1
-ZA12,D,D-5327,Milanówek Grudów,5327,0,5,1,2
-A1,D,D-133,Grodzisk Mazowiecki Radońska,133,0,6,1,1
-A1,D,D-355,Podkowa Leśna Główna,355,0,4,1,1
-A1,D,D-357,Podkowa Leśna Główna,357,0,4,1,1
-ZA12,D,D-5329,Milanówek Grudów,5329,0,5,1,2
-A1,D,D-135,Grodzisk Mazowiecki Radońska,135,0,6,1,1
-A1,D,D-359,Podkowa Leśna Główna,359,0,4,1,1
-A1,D,D-361,Podkowa Leśna Główna,361,0,4,1,1
-ZA12,D,D-5331,Milanówek Grudów,5331,0,5,1,2
-A1,D,D-137,Grodzisk Mazowiecki Radońska,137,0,6,1,1
-A1,D,D-363,Podkowa Leśna Główna,363,0,4,1,1
-A1,D,D-139,Grodzisk Mazowiecki Radońska,139,0,6,1,1
-A1,D,D-101,Grodzisk Mazowiecki Radońska,101,0,6,1,1
-A1,D,D-103,Grodzisk Mazowiecki Radońska,103,0,6,1,1
-A1,D,D-105,Grodzisk Mazowiecki Radońska,105,0,6,1,1
+A1,1000_1,1000_1,Warszawa Śródmieście WKD,1000,1,0,1,1
+A1,1000_2,1000_2,Warszawa Śródmieście WKD,1000,1,0,1,1
+A1,1001_1,1001_1,Grodzisk Mazowiecki Radońska,1001,0,1,1,1
+A1,1001_2,1001_2,Grodzisk Mazowiecki Radońska,1001,0,1,1,1
+A1,1002_1,1002_1,Warszawa Śródmieście WKD,1002,1,0,1,1
+A1,1002_2,1002_2,Warszawa Śródmieście WKD,1002,1,0,1,1
+A1,1003_1,1003_1,Grodzisk Mazowiecki Radońska,1003,0,1,1,1
+A1,1003_2,1003_2,Grodzisk Mazowiecki Radońska,1003,0,1,1,1
+A1,1004_1,1004_1,Warszawa Śródmieście WKD,1004,1,0,1,1
+A1,1004_2,1004_2,Warszawa Śródmieście WKD,1004,1,0,1,1
+A1,1005_1,1005_1,Grodzisk Mazowiecki Radońska,1005,0,1,1,1
+A1,1005_2,1005_2,Grodzisk Mazowiecki Radońska,1005,0,1,1,1
+A1,1006_1,1006_1,Warszawa Śródmieście WKD,1006,1,0,1,1
+A1,1006_2,1006_2,Warszawa Śródmieście WKD,1006,1,0,1,1
+A1,1007_1,1007_1,Grodzisk Mazowiecki Radońska,1007,0,1,1,1
+A1,1007_2,1007_2,Grodzisk Mazowiecki Radońska,1007,0,1,1,1
+A1,1008_1,1008_1,Warszawa Śródmieście WKD,1008,1,0,1,1
+A1,1008_2,1008_2,Warszawa Śródmieście WKD,1008,1,0,1,1
+A1,1009_1,1009_1,Grodzisk Mazowiecki Radońska,1009,0,1,1,1
+A1,1009_2,1009_2,Grodzisk Mazowiecki Radońska,1009,0,1,1,1
+A1,100_1,100_1,Warszawa Śródmieście WKD,100,1,0,1,1
+A1,100_2,100_2,Warszawa Śródmieście WKD,100,1,0,1,1
+A1,1010_1,1010_1,Warszawa Śródmieście WKD,1010,1,0,1,1
+A1,1010_2,1010_2,Warszawa Śródmieście WKD,1010,1,0,1,1
+A1,1011_1,1011_1,Grodzisk Mazowiecki Radońska,1011,0,1,1,1
+A1,1011_2,1011_2,Grodzisk Mazowiecki Radońska,1011,0,1,1,1
+A1,1012_1,1012_1,Warszawa Śródmieście WKD,1012,1,0,1,1
+A1,1012_2,1012_2,Warszawa Śródmieście WKD,1012,1,0,1,1
+A1,1013_1,1013_1,Grodzisk Mazowiecki Radońska,1013,0,1,1,1
+A1,1013_2,1013_2,Grodzisk Mazowiecki Radońska,1013,0,1,1,1
+A1,1014_1,1014_1,Warszawa Śródmieście WKD,1014,1,0,1,1
+A1,1014_2,1014_2,Warszawa Śródmieście WKD,1014,1,0,1,1
+A1,1015_1,1015_1,Grodzisk Mazowiecki Radońska,1015,0,1,1,1
+A1,1015_2,1015_2,Grodzisk Mazowiecki Radońska,1015,0,1,1,1
+A1,1016_1,1016_1,Warszawa Śródmieście WKD,1016,1,0,1,1
+A1,1016_2,1016_2,Warszawa Śródmieście WKD,1016,1,0,1,1
+A1,1017_1,1017_1,Grodzisk Mazowiecki Radońska,1017,0,1,1,1
+A1,1017_2,1017_2,Grodzisk Mazowiecki Radońska,1017,0,1,1,1
+A1,1018_1,1018_1,Warszawa Śródmieście WKD,1018,1,0,1,1
+A1,1018_2,1018_2,Warszawa Śródmieście WKD,1018,1,0,1,1
+A1,1019_1,1019_1,Grodzisk Mazowiecki Radońska,1019,0,1,1,1
+A1,1019_2,1019_2,Grodzisk Mazowiecki Radońska,1019,0,1,1,1
+A1,101_1,101_1,Grodzisk Mazowiecki Radońska,101,0,1,1,1
+A1,101_2,101_2,Grodzisk Mazowiecki Radońska,101,0,1,1,1
+A1,1020_1,1020_1,Warszawa Śródmieście WKD,1020,1,0,1,1
+A1,1020_2,1020_2,Warszawa Śródmieście WKD,1020,1,0,1,1
+A1,1021_1,1021_1,Grodzisk Mazowiecki Radońska,1021,0,1,1,1
+A1,1021_2,1021_2,Grodzisk Mazowiecki Radońska,1021,0,1,1,1
+A1,1022_1,1022_1,Warszawa Śródmieście WKD,1022,1,0,1,1
+A1,1022_2,1022_2,Warszawa Śródmieście WKD,1022,1,0,1,1
+A1,1023_1,1023_1,Grodzisk Mazowiecki Radońska,1023,0,1,1,1
+A1,1023_2,1023_2,Grodzisk Mazowiecki Radońska,1023,0,1,1,1
+A1,1024_1,1024_1,Warszawa Śródmieście WKD,1024,1,0,1,1
+A1,1024_2,1024_2,Warszawa Śródmieście WKD,1024,1,0,1,1
+A1,1025_1,1025_1,Grodzisk Mazowiecki Radońska,1025,0,1,1,1
+A1,1025_2,1025_2,Grodzisk Mazowiecki Radońska,1025,0,1,1,1
+A1,1026_1,1026_1,Warszawa Śródmieście WKD,1026,1,0,1,1
+A1,1026_2,1026_2,Warszawa Śródmieście WKD,1026,1,0,1,1
+A1,1027_1,1027_1,Grodzisk Mazowiecki Radońska,1027,0,1,1,1
+A1,1027_2,1027_2,Grodzisk Mazowiecki Radońska,1027,0,1,1,1
+A1,1028_1,1028_1,Warszawa Śródmieście WKD,1028,1,0,1,1
+A1,1028_2,1028_2,Warszawa Śródmieście WKD,1028,1,0,1,1
+A1,1029_1,1029_1,Grodzisk Mazowiecki Radońska,1029,0,1,1,1
+A1,1029_2,1029_2,Grodzisk Mazowiecki Radońska,1029,0,1,1,1
+A1,102_1,102_1,Warszawa Śródmieście WKD,102,1,0,1,1
+A1,102_2,102_2,Warszawa Śródmieście WKD,102,1,0,1,1
+A1,1030_1,1030_1,Warszawa Śródmieście WKD,1030,1,0,1,1
+A1,1030_2,1030_2,Warszawa Śródmieście WKD,1030,1,0,1,1
+A1,1031_1,1031_1,Grodzisk Mazowiecki Radońska,1031,0,1,1,1
+A1,1031_2,1031_2,Grodzisk Mazowiecki Radońska,1031,0,1,1,1
+A1,1032_1,1032_1,Warszawa Śródmieście WKD,1032,1,0,1,1
+A1,1032_2,1032_2,Warszawa Śródmieście WKD,1032,1,0,1,1
+A1,1033_1,1033_1,Grodzisk Mazowiecki Radońska,1033,0,1,1,1
+A1,1033_2,1033_2,Grodzisk Mazowiecki Radońska,1033,0,1,1,1
+A1,1034_1,1034_1,Warszawa Śródmieście WKD,1034,1,0,1,1
+A1,1034_2,1034_2,Warszawa Śródmieście WKD,1034,1,0,1,1
+A1,1035_1,1035_1,Grodzisk Mazowiecki Radońska,1035,0,1,1,1
+A1,1035_2,1035_2,Grodzisk Mazowiecki Radońska,1035,0,1,1,1
+A1,1036_1,1036_1,Warszawa Śródmieście WKD,1036,1,0,1,1
+A1,1036_2,1036_2,Warszawa Śródmieście WKD,1036,1,0,1,1
+A1,1037_1,1037_1,Grodzisk Mazowiecki Radońska,1037,0,1,1,1
+A1,1037_2,1037_2,Grodzisk Mazowiecki Radońska,1037,0,1,1,1
+A1,1038_1,1038_1,Warszawa Śródmieście WKD,1038,1,0,1,1
+A1,1038_2,1038_2,Warszawa Śródmieście WKD,1038,1,0,1,1
+A1,1039_1,1039_1,Grodzisk Mazowiecki Radońska,1039,0,1,1,1
+A1,1039_2,1039_2,Grodzisk Mazowiecki Radońska,1039,0,1,1,1
+A1,103_1,103_1,Grodzisk Mazowiecki Radońska,103,0,1,1,1
+A1,103_2,103_2,Grodzisk Mazowiecki Radońska,103,0,1,1,1
+A1,1040_1,1040_1,Warszawa Śródmieście WKD,1040,1,0,1,1
+A1,1040_2,1040_2,Warszawa Śródmieście WKD,1040,1,0,1,1
+A1,1041_1,1041_1,Grodzisk Mazowiecki Radońska,1041,0,1,1,1
+A1,1041_2,1041_2,Grodzisk Mazowiecki Radońska,1041,0,1,1,1
+A1,1042_1,1042_1,Warszawa Śródmieście WKD,1042,1,0,1,1
+A1,1042_2,1042_2,Warszawa Śródmieście WKD,1042,1,0,1,1
+A1,1043_1,1043_1,Grodzisk Mazowiecki Radońska,1043,0,1,1,1
+A1,1043_2,1043_2,Grodzisk Mazowiecki Radońska,1043,0,1,1,1
+A1,1044_1,1044_1,Warszawa Śródmieście WKD,1044,1,0,1,1
+A1,1044_2,1044_2,Warszawa Śródmieście WKD,1044,1,0,1,1
+A1,1045_1,1045_1,Grodzisk Mazowiecki Radońska,1045,0,1,1,1
+A1,1045_2,1045_2,Grodzisk Mazowiecki Radońska,1045,0,1,1,1
+A1,1046_1,1046_1,Warszawa Śródmieście WKD,1046,1,0,1,1
+A1,1046_2,1046_2,Warszawa Śródmieście WKD,1046,1,0,1,1
+A1,1047_1,1047_1,Grodzisk Mazowiecki Radońska,1047,0,1,1,1
+A1,1047_2,1047_2,Grodzisk Mazowiecki Radońska,1047,0,1,1,1
+A1,1048_1,1048_1,Warszawa Śródmieście WKD,1048,1,0,1,1
+A1,1048_2,1048_2,Warszawa Śródmieście WKD,1048,1,0,1,1
+A1,1049_1,1049_1,Grodzisk Mazowiecki Radońska,1049,0,1,1,1
+A1,1049_2,1049_2,Grodzisk Mazowiecki Radońska,1049,0,1,1,1
+A1,104_1,104_1,Warszawa Śródmieście WKD,104,1,0,1,1
+A1,104_2,104_2,Warszawa Śródmieście WKD,104,1,0,1,1
+A1,1050_1,1050_1,Warszawa Śródmieście WKD,1050,1,0,1,1
+A1,1050_2,1050_2,Warszawa Śródmieście WKD,1050,1,0,1,1
+A1,1051_1,1051_1,Grodzisk Mazowiecki Radońska,1051,0,1,1,1
+A1,1051_2,1051_2,Grodzisk Mazowiecki Radońska,1051,0,1,1,1
+A1,1052_1,1052_1,Warszawa Śródmieście WKD,1052,1,0,1,1
+A1,1052_2,1052_2,Warszawa Śródmieście WKD,1052,1,0,1,1
+A1,1053_1,1053_1,Grodzisk Mazowiecki Radońska,1053,0,1,1,1
+A1,1053_2,1053_2,Grodzisk Mazowiecki Radońska,1053,0,1,1,1
+A1,1054_1,1054_1,Warszawa Śródmieście WKD,1054,1,0,1,1
+A1,1054_2,1054_2,Warszawa Śródmieście WKD,1054,1,0,1,1
+A1,1055_1,1055_1,Grodzisk Mazowiecki Radońska,1055,0,1,1,1
+A1,1055_2,1055_2,Grodzisk Mazowiecki Radońska,1055,0,1,1,1
+A1,1056_1,1056_1,Warszawa Śródmieście WKD,1056,1,0,1,1
+A1,1056_2,1056_2,Warszawa Śródmieście WKD,1056,1,0,1,1
+A1,1057_1,1057_1,Grodzisk Mazowiecki Radońska,1057,0,1,1,1
+A1,1057_2,1057_2,Grodzisk Mazowiecki Radońska,1057,0,1,1,1
+A1,1058_1,1058_1,Warszawa Śródmieście WKD,1058,1,0,1,1
+A1,1058_2,1058_2,Warszawa Śródmieście WKD,1058,1,0,1,1
+A1,1059_1,1059_1,Grodzisk Mazowiecki Radońska,1059,0,1,1,1
+A1,1059_2,1059_2,Grodzisk Mazowiecki Radońska,1059,0,1,1,1
+A1,105_1,105_1,Grodzisk Mazowiecki Radońska,105,0,1,1,1
+A1,105_2,105_2,Grodzisk Mazowiecki Radońska,105,0,1,1,1
+A1,1060_1,1060_1,Warszawa Śródmieście WKD,1060,1,0,1,1
+A1,1060_2,1060_2,Warszawa Śródmieście WKD,1060,1,0,1,1
+A1,1061_1,1061_1,Grodzisk Mazowiecki Radońska,1061,0,1,1,1
+A1,1061_2,1061_2,Grodzisk Mazowiecki Radońska,1061,0,1,1,1
+A1,1062_1,1062_1,Warszawa Śródmieście WKD,1062,1,0,1,1
+A1,1062_2,1062_2,Warszawa Śródmieście WKD,1062,1,0,1,1
+A1,1063_1,1063_1,Grodzisk Mazowiecki Radońska,1063,0,1,1,1
+A1,1063_2,1063_2,Grodzisk Mazowiecki Radońska,1063,0,1,1,1
+A1,1064_1,1064_1,Warszawa Śródmieście WKD,1064,1,0,1,1
+A1,1064_2,1064_2,Warszawa Śródmieście WKD,1064,1,0,1,1
+A1,1065_1,1065_1,Grodzisk Mazowiecki Radońska,1065,0,1,1,1
+A1,1065_2,1065_2,Grodzisk Mazowiecki Radońska,1065,0,1,1,1
+A1,1066_1,1066_1,Warszawa Śródmieście WKD,1066,1,0,1,1
+A1,1066_2,1066_2,Warszawa Śródmieście WKD,1066,1,0,1,1
+A1,1067_1,1067_1,Grodzisk Mazowiecki Radońska,1067,0,1,1,1
+A1,1067_2,1067_2,Grodzisk Mazowiecki Radońska,1067,0,1,1,1
+A1,1068_1,1068_1,Warszawa Śródmieście WKD,1068,1,0,1,1
+A1,1068_2,1068_2,Warszawa Śródmieście WKD,1068,1,0,1,1
+A1,1069_1,1069_1,Grodzisk Mazowiecki Radońska,1069,0,1,1,1
+A1,1069_2,1069_2,Grodzisk Mazowiecki Radońska,1069,0,1,1,1
+A1,106_1,106_1,Warszawa Śródmieście WKD,106,1,0,1,1
+A1,106_2,106_2,Warszawa Śródmieście WKD,106,1,0,1,1
+A1,1070_1,1070_1,Warszawa Śródmieście WKD,1070,1,0,1,1
+A1,1070_2,1070_2,Warszawa Śródmieście WKD,1070,1,0,1,1
+A1,1071_1,1071_1,Grodzisk Mazowiecki Radońska,1071,0,1,1,1
+A1,1071_2,1071_2,Grodzisk Mazowiecki Radońska,1071,0,1,1,1
+A1,1072_1,1072_1,Warszawa Śródmieście WKD,1072,1,0,1,1
+A1,1072_2,1072_2,Warszawa Śródmieście WKD,1072,1,0,1,1
+A1,1073_1,1073_1,Grodzisk Mazowiecki Radońska,1073,0,1,1,1
+A1,1073_2,1073_2,Grodzisk Mazowiecki Radońska,1073,0,1,1,1
+A1,1074_1,1074_1,Warszawa Śródmieście WKD,1074,1,0,1,1
+A1,1074_2,1074_2,Warszawa Śródmieście WKD,1074,1,0,1,1
+A1,1075_1,1075_1,Grodzisk Mazowiecki Radońska,1075,0,1,1,1
+A1,1075_2,1075_2,Grodzisk Mazowiecki Radońska,1075,0,1,1,1
+A1,1076_1,1076_1,Warszawa Śródmieście WKD,1076,1,0,1,1
+A1,1076_2,1076_2,Warszawa Śródmieście WKD,1076,1,0,1,1
+A1,1077_1,1077_1,Grodzisk Mazowiecki Radońska,1077,0,1,1,1
+A1,1077_2,1077_2,Grodzisk Mazowiecki Radońska,1077,0,1,1,1
+A1,1078_1,1078_1,Warszawa Śródmieście WKD,1078,1,0,1,1
+A1,1078_2,1078_2,Warszawa Śródmieście WKD,1078,1,0,1,1
+A1,1079_1,1079_1,Grodzisk Mazowiecki Radońska,1079,0,1,1,1
+A1,1079_2,1079_2,Grodzisk Mazowiecki Radońska,1079,0,1,1,1
+A1,107_1,107_1,Grodzisk Mazowiecki Radońska,107,0,1,1,1
+A1,107_2,107_2,Grodzisk Mazowiecki Radońska,107,0,1,1,1
+A1,1080_1,1080_1,Warszawa Śródmieście WKD,1080,1,0,1,1
+A1,1080_2,1080_2,Warszawa Śródmieście WKD,1080,1,0,1,1
+A1,1081_1,1081_1,Grodzisk Mazowiecki Radońska,1081,0,1,1,1
+A1,1081_2,1081_2,Grodzisk Mazowiecki Radońska,1081,0,1,1,1
+A1,108_1,108_1,Warszawa Śródmieście WKD,108,1,0,1,1
+A1,108_2,108_2,Warszawa Śródmieście WKD,108,1,0,1,1
+A1,109_1,109_1,Grodzisk Mazowiecki Radońska,109,0,1,1,1
+A1,109_2,109_2,Grodzisk Mazowiecki Radońska,109,0,1,1,1
+A1,1100_1,1100_1,Warszawa Śródmieście WKD,1100,1,0,1,1
+A1,1100_2,1100_2,Warszawa Śródmieście WKD,1100,1,0,1,1
+A1,1101_1,1101_1,Grodzisk Mazowiecki Radońska,1101,0,1,1,1
+A1,1101_2,1101_2,Grodzisk Mazowiecki Radońska,1101,0,1,1,1
+A1,1102_1,1102_1,Warszawa Śródmieście WKD,1102,1,0,1,1
+A1,1102_2,1102_2,Warszawa Śródmieście WKD,1102,1,0,1,1
+A1,1103_1,1103_1,Grodzisk Mazowiecki Radońska,1103,0,1,1,1
+A1,1103_2,1103_2,Grodzisk Mazowiecki Radońska,1103,0,1,1,1
+A1,1104_1,1104_1,Warszawa Śródmieście WKD,1104,1,0,1,1
+A1,1104_2,1104_2,Warszawa Śródmieście WKD,1104,1,0,1,1
+A1,1105_1,1105_1,Grodzisk Mazowiecki Radońska,1105,0,1,1,1
+A1,1105_2,1105_2,Grodzisk Mazowiecki Radońska,1105,0,1,1,1
+A1,1106_1,1106_1,Warszawa Śródmieście WKD,1106,1,0,1,1
+A1,1106_2,1106_2,Warszawa Śródmieście WKD,1106,1,0,1,1
+A1,1107_1,1107_1,Grodzisk Mazowiecki Radońska,1107,0,1,1,1
+A1,1107_2,1107_2,Grodzisk Mazowiecki Radońska,1107,0,1,1,1
+A1,1108_1,1108_1,Warszawa Śródmieście WKD,1108,1,0,1,1
+A1,1108_2,1108_2,Warszawa Śródmieście WKD,1108,1,0,1,1
+A1,1109_1,1109_1,Grodzisk Mazowiecki Radońska,1109,0,1,1,1
+A1,1109_2,1109_2,Grodzisk Mazowiecki Radońska,1109,0,1,1,1
+A1,110_1,110_1,Warszawa Śródmieście WKD,110,1,0,1,1
+A1,110_2,110_2,Warszawa Śródmieście WKD,110,1,0,1,1
+A1,1110_1,1110_1,Warszawa Śródmieście WKD,1110,1,0,1,1
+A1,1110_2,1110_2,Warszawa Śródmieście WKD,1110,1,0,1,1
+A1,1111_1,1111_1,Grodzisk Mazowiecki Radońska,1111,0,1,1,1
+A1,1111_2,1111_2,Grodzisk Mazowiecki Radońska,1111,0,1,1,1
+A1,1112_1,1112_1,Warszawa Śródmieście WKD,1112,1,0,1,1
+A1,1112_2,1112_2,Warszawa Śródmieście WKD,1112,1,0,1,1
+A1,1113_1,1113_1,Grodzisk Mazowiecki Radońska,1113,0,1,1,1
+A1,1113_2,1113_2,Grodzisk Mazowiecki Radońska,1113,0,1,1,1
+A1,1114_1,1114_1,Warszawa Śródmieście WKD,1114,1,0,1,1
+A1,1114_2,1114_2,Warszawa Śródmieście WKD,1114,1,0,1,1
+A1,1115_1,1115_1,Grodzisk Mazowiecki Radońska,1115,0,1,1,1
+A1,1115_2,1115_2,Grodzisk Mazowiecki Radońska,1115,0,1,1,1
+A1,1116_1,1116_1,Warszawa Śródmieście WKD,1116,1,0,1,1
+A1,1116_2,1116_2,Warszawa Śródmieście WKD,1116,1,0,1,1
+A1,1117_1,1117_1,Grodzisk Mazowiecki Radońska,1117,0,1,1,1
+A1,1117_2,1117_2,Grodzisk Mazowiecki Radońska,1117,0,1,1,1
+A1,1118_1,1118_1,Warszawa Śródmieście WKD,1118,1,0,1,1
+A1,1118_2,1118_2,Warszawa Śródmieście WKD,1118,1,0,1,1
+A1,1119_1,1119_1,Grodzisk Mazowiecki Radońska,1119,0,1,1,1
+A1,1119_2,1119_2,Grodzisk Mazowiecki Radońska,1119,0,1,1,1
+A1,111_1,111_1,Grodzisk Mazowiecki Radońska,111,0,1,1,1
+A1,111_2,111_2,Grodzisk Mazowiecki Radońska,111,0,1,1,1
+A1,1120_1,1120_1,Warszawa Śródmieście WKD,1120,1,0,1,1
+A1,1121_1,1121_1,Grodzisk Mazowiecki Radońska,1121,0,1,1,1
+A1,1122_1,1122_1,Warszawa Śródmieście WKD,1122,1,0,1,1
+A1,1123_1,1123_1,Grodzisk Mazowiecki Radońska,1123,0,1,1,1
+A1,1124_1,1124_1,Warszawa Śródmieście WKD,1124,1,0,1,1
+A1,1125_1,1125_1,Grodzisk Mazowiecki Radońska,1125,0,1,1,1
+A1,1126_1,1126_1,Warszawa Śródmieście WKD,1126,1,0,1,1
+A1,1127_1,1127_1,Grodzisk Mazowiecki Radońska,1127,0,1,1,1
+A1,1128_1,1128_1,Warszawa Śródmieście WKD,1128,1,0,1,1
+A1,1129_1,1129_1,Grodzisk Mazowiecki Radońska,1129,0,1,1,1
+A1,112_1,112_1,Warszawa Śródmieście WKD,112,1,0,1,1
+A1,112_2,112_2,Warszawa Śródmieście WKD,112,1,0,1,1
+A1,1130_1,1130_1,Warszawa Śródmieście WKD,1130,1,0,1,1
+A1,1131_1,1131_1,Grodzisk Mazowiecki Radońska,1131,0,1,1,1
+A1,1132_1,1132_1,Warszawa Śródmieście WKD,1132,1,0,1,1
+A1,1133_1,1133_1,Grodzisk Mazowiecki Radońska,1133,0,1,1,1
+A1,113_1,113_1,Grodzisk Mazowiecki Radońska,113,0,1,1,1
+A1,113_2,113_2,Grodzisk Mazowiecki Radońska,113,0,1,1,1
+A1,114_1,114_1,Warszawa Śródmieście WKD,114,1,0,1,1
+A1,114_2,114_2,Warszawa Śródmieście WKD,114,1,0,1,1
+A1,115_1,115_1,Grodzisk Mazowiecki Radońska,115,0,1,1,1
+A1,115_2,115_2,Grodzisk Mazowiecki Radońska,115,0,1,1,1
+A1,116_1,116_1,Warszawa Śródmieście WKD,116,1,0,1,1
+A1,116_2,116_2,Warszawa Śródmieście WKD,116,1,0,1,1
+A1,117_1,117_1,Grodzisk Mazowiecki Radońska,117,0,1,1,1
+A1,117_2,117_2,Grodzisk Mazowiecki Radońska,117,0,1,1,1
+A1,118_1,118_1,Warszawa Śródmieście WKD,118,1,0,1,1
+A1,118_2,118_2,Warszawa Śródmieście WKD,118,1,0,1,1
+A1,119_1,119_1,Grodzisk Mazowiecki Radońska,119,0,1,1,1
+A1,119_2,119_2,Grodzisk Mazowiecki Radońska,119,0,1,1,1
+A1,120_1,120_1,Warszawa Śródmieście WKD,120,1,0,1,1
+A1,120_2,120_2,Warszawa Śródmieście WKD,120,1,0,1,1
+A1,121_1,121_1,Grodzisk Mazowiecki Radońska,121,0,1,1,1
+A1,121_2,121_2,Grodzisk Mazowiecki Radońska,121,0,1,1,1
+A1,122_1,122_1,Warszawa Śródmieście WKD,122,1,0,1,1
+A1,122_2,122_2,Warszawa Śródmieście WKD,122,1,0,1,1
+A1,123_1,123_1,Grodzisk Mazowiecki Radońska,123,0,1,1,1
+A1,123_2,123_2,Grodzisk Mazowiecki Radońska,123,0,1,1,1
+A1,124_1,124_1,Warszawa Śródmieście WKD,124,1,0,1,1
+A1,124_2,124_2,Warszawa Śródmieście WKD,124,1,0,1,1
+A1,125_1,125_1,Grodzisk Mazowiecki Radońska,125,0,1,1,1
+A1,125_2,125_2,Grodzisk Mazowiecki Radońska,125,0,1,1,1
+A1,126_1,126_1,Warszawa Śródmieście WKD,126,1,0,1,1
+A1,126_2,126_2,Warszawa Śródmieście WKD,126,1,0,1,1
+A1,127_1,127_1,Grodzisk Mazowiecki Radońska,127,0,1,1,1
+A1,127_2,127_2,Grodzisk Mazowiecki Radońska,127,0,1,1,1
+A1,128_1,128_1,Warszawa Śródmieście WKD,128,1,0,1,1
+A1,128_2,128_2,Warszawa Śródmieście WKD,128,1,0,1,1
+A1,129_1,129_1,Grodzisk Mazowiecki Radońska,129,0,1,1,1
+A1,129_2,129_2,Grodzisk Mazowiecki Radońska,129,0,1,1,1
+A1,130_1,130_1,Warszawa Śródmieście WKD,130,1,0,1,1
+A1,130_2,130_2,Warszawa Śródmieście WKD,130,1,0,1,1
+A1,131_1,131_1,Grodzisk Mazowiecki Radońska,131,0,1,1,1
+A1,131_2,131_2,Grodzisk Mazowiecki Radońska,131,0,1,1,1
+A1,132_1,132_1,Warszawa Śródmieście WKD,132,1,0,1,1
+A1,132_2,132_2,Warszawa Śródmieście WKD,132,1,0,1,1
+A1,133_1,133_1,Grodzisk Mazowiecki Radońska,133,0,1,1,1
+A1,133_2,133_2,Grodzisk Mazowiecki Radońska,133,0,1,1,1
+A1,134_1,134_1,Warszawa Śródmieście WKD,134,1,0,1,1
+A1,134_2,134_2,Warszawa Śródmieście WKD,134,1,0,1,1
+A1,135_1,135_1,Grodzisk Mazowiecki Radońska,135,0,1,1,1
+A1,135_2,135_2,Grodzisk Mazowiecki Radońska,135,0,1,1,1
+A1,136_1,136_1,Warszawa Śródmieście WKD,136,1,0,1,1
+A1,136_2,136_2,Warszawa Śródmieście WKD,136,1,0,1,1
+A1,137_1,137_1,Grodzisk Mazowiecki Radońska,137,0,1,1,1
+A1,137_2,137_2,Grodzisk Mazowiecki Radońska,137,0,1,1,1
+A1,138_1,138_1,Warszawa Śródmieście WKD,138,1,0,1,1
+A1,138_2,138_2,Warszawa Śródmieście WKD,138,1,0,1,1
+A1,139_1,139_1,Grodzisk Mazowiecki Radońska,139,0,1,1,1
+A1,139_2,139_2,Grodzisk Mazowiecki Radońska,139,0,1,1,1
+A1,140_1,140_1,Warszawa Śródmieście WKD,140,1,0,1,1
+A1,140_2,140_2,Warszawa Śródmieście WKD,140,1,0,1,1
+A1,141_1,141_1,Grodzisk Mazowiecki Radońska,141,0,1,1,1
+A1,141_2,141_2,Grodzisk Mazowiecki Radońska,141,0,1,1,1
+A1,142_1,142_1,Warszawa Śródmieście WKD,142,1,0,1,1
+A1,142_2,142_2,Warszawa Śródmieście WKD,142,1,0,1,1
+A1,143_1,143_1,Grodzisk Mazowiecki Radońska,143,0,1,1,1
+A1,143_2,143_2,Grodzisk Mazowiecki Radońska,143,0,1,1,1
+A1,144_1,144_1,Warszawa Śródmieście WKD,144,1,0,1,1
+A1,144_2,144_2,Warszawa Śródmieście WKD,144,1,0,1,1
+A1,145_1,145_1,Grodzisk Mazowiecki Radońska,145,0,1,1,1
+A1,145_2,145_2,Grodzisk Mazowiecki Radońska,145,0,1,1,1
+A1,146_1,146_1,Warszawa Śródmieście WKD,146,1,0,1,1
+A1,146_2,146_2,Warszawa Śródmieście WKD,146,1,0,1,1
+A1,147_1,147_1,Grodzisk Mazowiecki Radońska,147,0,1,1,1
+A1,147_2,147_2,Grodzisk Mazowiecki Radońska,147,0,1,1,1
+A1,148_1,148_1,Warszawa Śródmieście WKD,148,1,0,1,1
+A1,148_2,148_2,Warszawa Śródmieście WKD,148,1,0,1,1
+A1,149_1,149_1,Grodzisk Mazowiecki Radońska,149,0,1,1,1
+A1,149_2,149_2,Grodzisk Mazowiecki Radońska,149,0,1,1,1
+A1,150_1,150_1,Warszawa Śródmieście WKD,150,1,0,1,1
+A1,150_2,150_2,Warszawa Śródmieście WKD,150,1,0,1,1
+A1,151_1,151_1,Grodzisk Mazowiecki Radońska,151,0,1,1,1
+A1,151_2,151_2,Grodzisk Mazowiecki Radońska,151,0,1,1,1
+A1,152_1,152_1,Warszawa Śródmieście WKD,152,1,0,1,1
+A1,152_2,152_2,Warszawa Śródmieście WKD,152,1,0,1,1
+A1,153_1,153_1,Grodzisk Mazowiecki Radońska,153,0,1,1,1
+A1,153_2,153_2,Grodzisk Mazowiecki Radońska,153,0,1,1,1
+A1,154_1,154_1,Warszawa Śródmieście WKD,154,1,0,1,1
+A1,154_2,154_2,Warszawa Śródmieście WKD,154,1,0,1,1
+A1,155_1,155_1,Grodzisk Mazowiecki Radońska,155,0,1,1,1
+A1,155_2,155_2,Grodzisk Mazowiecki Radońska,155,0,1,1,1
+A1,156_1,156_1,Warszawa Śródmieście WKD,156,1,0,1,1
+A1,156_2,156_2,Warszawa Śródmieście WKD,156,1,0,1,1
+A1,157_1,157_1,Grodzisk Mazowiecki Radońska,157,0,1,1,1
+A1,157_2,157_2,Grodzisk Mazowiecki Radońska,157,0,1,1,1
+A1,158_1,158_1,Warszawa Śródmieście WKD,158,1,0,1,1
+A1,158_2,158_2,Warszawa Śródmieście WKD,158,1,0,1,1
+A1,159_1,159_1,Grodzisk Mazowiecki Radońska,159,0,1,1,1
+A1,159_2,159_2,Grodzisk Mazowiecki Radońska,159,0,1,1,1
+A1,160_1,160_1,Warszawa Śródmieście WKD,160,1,0,1,1
+A1,160_2,160_2,Warszawa Śródmieście WKD,160,1,0,1,1
+A1,161_1,161_1,Grodzisk Mazowiecki Radońska,161,0,1,1,1
+A1,161_2,161_2,Grodzisk Mazowiecki Radońska,161,0,1,1,1
+A1,162_1,162_1,Warszawa Śródmieście WKD,162,1,0,1,1
+A1,162_2,162_2,Warszawa Śródmieście WKD,162,1,0,1,1
+A1,163_1,163_1,Grodzisk Mazowiecki Radońska,163,0,1,1,1
+A1,163_2,163_2,Grodzisk Mazowiecki Radońska,163,0,1,1,1
+A1,164_1,164_1,Warszawa Śródmieście WKD,164,1,0,1,1
+A1,164_2,164_2,Warszawa Śródmieście WKD,164,1,0,1,1
+A1,165_1,165_1,Grodzisk Mazowiecki Radońska,165,0,1,1,1
+A1,165_2,165_2,Grodzisk Mazowiecki Radońska,165,0,1,1,1
+A1,166_1,166_1,Warszawa Śródmieście WKD,166,1,0,1,1
+A1,166_2,166_2,Warszawa Śródmieście WKD,166,1,0,1,1
+A1,167_1,167_1,Grodzisk Mazowiecki Radońska,167,0,1,1,1
+A1,167_2,167_2,Grodzisk Mazowiecki Radońska,167,0,1,1,1
+A1,168_1,168_1,Warszawa Śródmieście WKD,168,1,0,1,1
+A1,168_2,168_2,Warszawa Śródmieście WKD,168,1,0,1,1
+A1,169_1,169_1,Grodzisk Mazowiecki Radońska,169,0,1,1,1
+A1,169_2,169_2,Grodzisk Mazowiecki Radońska,169,0,1,1,1
+A1,170_1,170_1,Warszawa Śródmieście WKD,170,1,0,1,1
+A1,170_2,170_2,Warszawa Śródmieście WKD,170,1,0,1,1
+A1,171_1,171_1,Grodzisk Mazowiecki Radońska,171,0,1,1,1
+A1,171_2,171_2,Grodzisk Mazowiecki Radońska,171,0,1,1,1
+A1,172_1,172_1,Warszawa Śródmieście WKD,172,1,0,1,1
+A1,172_2,172_2,Warszawa Śródmieście WKD,172,1,0,1,1
+A1,173_1,173_1,Grodzisk Mazowiecki Radońska,173,0,1,1,1
+A1,173_2,173_2,Grodzisk Mazowiecki Radońska,173,0,1,1,1
+A1,174_1,174_1,Warszawa Śródmieście WKD,174,1,0,1,1
+A1,174_2,174_2,Warszawa Śródmieście WKD,174,1,0,1,1
+A1,175_1,175_1,Grodzisk Mazowiecki Radońska,175,0,1,1,1
+A1,175_2,175_2,Grodzisk Mazowiecki Radońska,175,0,1,1,1
+A1,176_1,176_1,Warszawa Śródmieście WKD,176,1,0,1,1
+A1,176_2,176_2,Warszawa Śródmieście WKD,176,1,0,1,1
+A1,177_1,177_1,Grodzisk Mazowiecki Radońska,177,0,1,1,1
+A1,177_2,177_2,Grodzisk Mazowiecki Radońska,177,0,1,1,1
+A1,178_1,178_1,Warszawa Śródmieście WKD,178,1,0,1,1
+A1,178_2,178_2,Warszawa Śródmieście WKD,178,1,0,1,1
+A1,179_1,179_1,Grodzisk Mazowiecki Radońska,179,0,1,1,1
+A1,179_2,179_2,Grodzisk Mazowiecki Radońska,179,0,1,1,1
+A1,180_1,180_1,Warszawa Śródmieście WKD,180,1,0,1,1
+A1,180_2,180_2,Warszawa Śródmieście WKD,180,1,0,1,1
+A1,181_1,181_1,Grodzisk Mazowiecki Radońska,181,0,1,1,1
+A1,181_2,181_2,Grodzisk Mazowiecki Radońska,181,0,1,1,1
+A1,182_1,182_1,Warszawa Śródmieście WKD,182,1,0,1,1
+A1,182_2,182_2,Warszawa Śródmieście WKD,182,1,0,1,1
+A1,183_1,183_1,Grodzisk Mazowiecki Radońska,183,0,1,1,1
+A1,183_2,183_2,Grodzisk Mazowiecki Radońska,183,0,1,1,1
+A1,184_1,184_1,Warszawa Śródmieście WKD,184,1,0,1,1
+A1,184_2,184_2,Warszawa Śródmieście WKD,184,1,0,1,1
+A1,185_1,185_1,Grodzisk Mazowiecki Radońska,185,0,1,1,1
+A1,185_2,185_2,Grodzisk Mazowiecki Radońska,185,0,1,1,1
+A1,186_1,186_1,Warszawa Śródmieście WKD,186,1,0,1,1
+A1,186_2,186_2,Warszawa Śródmieście WKD,186,1,0,1,1
+A1,187_1,187_1,Grodzisk Mazowiecki Radońska,187,0,1,1,1
+A1,187_2,187_2,Grodzisk Mazowiecki Radońska,187,0,1,1,1
+A1,188_1,188_1,Warszawa Śródmieście WKD,188,1,0,1,1
+A1,188_2,188_2,Warszawa Śródmieście WKD,188,1,0,1,1
+A1,189_1,189_1,Grodzisk Mazowiecki Radońska,189,0,1,1,1
+A1,189_2,189_2,Grodzisk Mazowiecki Radońska,189,0,1,1,1
+A1,190_1,190_1,Warszawa Śródmieście WKD,190,1,0,1,1
+A1,190_2,190_2,Warszawa Śródmieście WKD,190,1,0,1,1
+A1,191_1,191_1,Grodzisk Mazowiecki Radońska,191,0,1,1,1
+A1,191_2,191_2,Grodzisk Mazowiecki Radońska,191,0,1,1,1
+A1,192_1,192_1,Warszawa Śródmieście WKD,192,1,0,1,1
+A1,192_2,192_2,Warszawa Śródmieście WKD,192,1,0,1,1
+A1,193_1,193_1,Grodzisk Mazowiecki Radońska,193,0,1,1,1
+A1,193_2,193_2,Grodzisk Mazowiecki Radońska,193,0,1,1,1
+A1,194_1,194_1,Warszawa Śródmieście WKD,194,1,0,1,1
+A1,194_2,194_2,Warszawa Śródmieście WKD,194,1,0,1,1
+A1,195_1,195_1,Grodzisk Mazowiecki Radońska,195,0,1,1,1
+A1,195_2,195_2,Grodzisk Mazowiecki Radońska,195,0,1,1,1
+A1,196_1,196_1,Warszawa Śródmieście WKD,196,1,0,1,1
+A1,196_2,196_2,Warszawa Śródmieście WKD,196,1,0,1,1
+A1,197_1,197_1,Grodzisk Mazowiecki Radońska,197,0,1,1,1
+A1,197_2,197_2,Grodzisk Mazowiecki Radońska,197,0,1,1,1
+A1,198_1,198_1,Warszawa Śródmieście WKD,198,1,0,1,1
+A1,198_2,198_2,Warszawa Śródmieście WKD,198,1,0,1,1
+A1,199_1,199_1,Grodzisk Mazowiecki Radońska,199,0,1,1,1
+A1,199_2,199_2,Grodzisk Mazowiecki Radońska,199,0,1,1,1
+A1,2000_1,2000_1,Warszawa Śródmieście WKD,2000,1,2,1,1
+A1,2000_2,2000_2,Warszawa Śródmieście WKD,2000,1,2,1,1
+A12,2001_1,2001_1,Milanówek Grudów,2001,0,3,1,1
+A12,2001_2,2001_2,Milanówek Grudów,2001,0,3,1,1
+A1,2002_1,2002_1,Warszawa Śródmieście WKD,2002,1,2,1,1
+A1,2002_2,2002_2,Warszawa Śródmieście WKD,2002,1,2,1,1
+A12,2003_1,2003_1,Milanówek Grudów,2003,0,3,1,1
+A12,2003_2,2003_2,Milanówek Grudów,2003,0,3,1,1
+A1,2004_1,2004_1,Warszawa Śródmieście WKD,2004,1,2,1,1
+A1,2004_2,2004_2,Warszawa Śródmieście WKD,2004,1,2,1,1
+A12,2005_1,2005_1,Milanówek Grudów,2005,0,3,1,1
+A12,2005_2,2005_2,Milanówek Grudów,2005,0,3,1,1
+A1,2006_1,2006_1,Warszawa Śródmieście WKD,2006,1,2,1,1
+A1,2006_2,2006_2,Warszawa Śródmieście WKD,2006,1,2,1,1
+A12,2007_1,2007_1,Milanówek Grudów,2007,0,3,1,1
+A12,2007_2,2007_2,Milanówek Grudów,2007,0,3,1,1
+A1,2008_1,2008_1,Warszawa Śródmieście WKD,2008,1,2,1,1
+A1,2008_2,2008_2,Warszawa Śródmieście WKD,2008,1,2,1,1
+A12,2009_1,2009_1,Milanówek Grudów,2009,0,3,1,1
+A12,2009_2,2009_2,Milanówek Grudów,2009,0,3,1,1
+A1,200_1,200_1,Warszawa Śródmieście WKD,200,1,2,1,1
+A1,200_2,200_2,Warszawa Śródmieście WKD,200,1,2,1,1
+A1,2010_1,2010_1,Warszawa Śródmieście WKD,2010,1,2,1,1
+A1,2010_2,2010_2,Warszawa Śródmieście WKD,2010,1,2,1,1
+A12,2011_1,2011_1,Milanówek Grudów,2011,0,3,1,1
+A12,2011_2,2011_2,Milanówek Grudów,2011,0,3,1,1
+A1,2012_1,2012_1,Warszawa Śródmieście WKD,2012,1,2,1,1
+A1,2012_2,2012_2,Warszawa Śródmieście WKD,2012,1,2,1,1
+A12,2013_1,2013_1,Milanówek Grudów,2013,0,3,1,1
+A12,2013_2,2013_2,Milanówek Grudów,2013,0,3,1,1
+A1,2014_1,2014_1,Warszawa Śródmieście WKD,2014,1,2,1,1
+A1,2014_2,2014_2,Warszawa Śródmieście WKD,2014,1,2,1,1
+A12,2015_1,2015_1,Milanówek Grudów,2015,0,3,1,1
+A12,2015_2,2015_2,Milanówek Grudów,2015,0,3,1,1
+A1,2016_1,2016_1,Warszawa Śródmieście WKD,2016,1,2,1,1
+A1,2016_2,2016_2,Warszawa Śródmieście WKD,2016,1,2,1,1
+A12,2017_1,2017_1,Milanówek Grudów,2017,0,3,1,1
+A12,2017_2,2017_2,Milanówek Grudów,2017,0,3,1,1
+A1,2018_1,2018_1,Warszawa Śródmieście WKD,2018,1,2,1,1
+A1,2018_2,2018_2,Warszawa Śródmieście WKD,2018,1,2,1,1
+A12,2019_1,2019_1,Milanówek Grudów,2019,0,3,1,1
+A12,2019_2,2019_2,Milanówek Grudów,2019,0,3,1,1
+A12,201_1,201_1,Milanówek Grudów,201,0,3,1,1
+A12,201_2,201_2,Milanówek Grudów,201,0,3,1,1
+A1,2020_1,2020_1,Warszawa Śródmieście WKD,2020,1,2,1,1
+A1,2020_2,2020_2,Warszawa Śródmieście WKD,2020,1,2,1,1
+A12,2021_1,2021_1,Milanówek Grudów,2021,0,3,1,1
+A12,2021_2,2021_2,Milanówek Grudów,2021,0,3,1,1
+A1,2022_1,2022_1,Warszawa Śródmieście WKD,2022,1,2,1,1
+A1,2022_2,2022_2,Warszawa Śródmieście WKD,2022,1,2,1,1
+A12,2023_1,2023_1,Milanówek Grudów,2023,0,3,1,1
+A12,2023_2,2023_2,Milanówek Grudów,2023,0,3,1,1
+A1,2024_1,2024_1,Warszawa Śródmieście WKD,2024,1,2,1,1
+A1,2024_2,2024_2,Warszawa Śródmieście WKD,2024,1,2,1,1
+A12,2025_1,2025_1,Milanówek Grudów,2025,0,3,1,1
+A12,2025_2,2025_2,Milanówek Grudów,2025,0,3,1,1
+A1,2026_1,2026_1,Warszawa Śródmieście WKD,2026,1,2,1,1
+A1,2026_2,2026_2,Warszawa Śródmieście WKD,2026,1,2,1,1
+A12,2027_1,2027_1,Milanówek Grudów,2027,0,3,1,1
+A12,2027_2,2027_2,Milanówek Grudów,2027,0,3,1,1
+A1,2028_1,2028_1,Warszawa Śródmieście WKD,2028,1,2,1,1
+A1,2028_2,2028_2,Warszawa Śródmieście WKD,2028,1,2,1,1
+A12,2029_1,2029_1,Milanówek Grudów,2029,0,3,1,1
+A12,2029_2,2029_2,Milanówek Grudów,2029,0,3,1,1
+A1,202_1,202_1,Warszawa Śródmieście WKD,202,1,2,1,1
+A1,202_2,202_2,Warszawa Śródmieście WKD,202,1,2,1,1
+A1,2030_1,2030_1,Warszawa Śródmieście WKD,2030,1,2,1,1
+A1,2030_2,2030_2,Warszawa Śródmieście WKD,2030,1,2,1,1
+A12,2031_1,2031_1,Milanówek Grudów,2031,0,3,1,1
+A12,2031_2,2031_2,Milanówek Grudów,2031,0,3,1,1
+A1,2032_1,2032_1,Warszawa Śródmieście WKD,2032,1,2,1,1
+A1,2032_2,2032_2,Warszawa Śródmieście WKD,2032,1,2,1,1
+A12,2033_1,2033_1,Milanówek Grudów,2033,0,3,1,1
+A12,2033_2,2033_2,Milanówek Grudów,2033,0,3,1,1
+A1,2034_1,2034_1,Warszawa Śródmieście WKD,2034,1,2,1,1
+A1,2034_2,2034_2,Warszawa Śródmieście WKD,2034,1,2,1,1
+A12,2035_1,2035_1,Milanówek Grudów,2035,0,3,1,1
+A12,2035_2,2035_2,Milanówek Grudów,2035,0,3,1,1
+A1,2036_1,2036_1,Warszawa Śródmieście WKD,2036,1,2,1,1
+A1,2036_2,2036_2,Warszawa Śródmieście WKD,2036,1,2,1,1
+A12,2037_1,2037_1,Milanówek Grudów,2037,0,3,1,1
+A12,2037_2,2037_2,Milanówek Grudów,2037,0,3,1,1
+A12,203_1,203_1,Milanówek Grudów,203,0,3,1,1
+A12,203_2,203_2,Milanówek Grudów,203,0,3,1,1
+A1,204_1,204_1,Warszawa Śródmieście WKD,204,1,2,1,1
+A1,204_2,204_2,Warszawa Śródmieście WKD,204,1,2,1,1
+A12,205_1,205_1,Milanówek Grudów,205,0,3,1,1
+A12,205_2,205_2,Milanówek Grudów,205,0,3,1,1
+A1,206_1,206_1,Warszawa Śródmieście WKD,206,1,2,1,1
+A1,206_2,206_2,Warszawa Śródmieście WKD,206,1,2,1,1
+A12,207_1,207_1,Milanówek Grudów,207,0,3,1,1
+A12,207_2,207_2,Milanówek Grudów,207,0,3,1,1
+A1,208_1,208_1,Warszawa Śródmieście WKD,208,1,2,1,1
+A1,208_2,208_2,Warszawa Śródmieście WKD,208,1,2,1,1
+A12,209_1,209_1,Milanówek Grudów,209,0,3,1,1
+A12,209_2,209_2,Milanówek Grudów,209,0,3,1,1
+A1,210_1,210_1,Warszawa Śródmieście WKD,210,1,2,1,1
+A1,210_2,210_2,Warszawa Śródmieście WKD,210,1,2,1,1
+A12,211_1,211_1,Milanówek Grudów,211,0,3,1,1
+A12,211_2,211_2,Milanówek Grudów,211,0,3,1,1
+A1,212_1,212_1,Warszawa Śródmieście WKD,212,1,2,1,1
+A1,212_2,212_2,Warszawa Śródmieście WKD,212,1,2,1,1
+A12,213_1,213_1,Milanówek Grudów,213,0,3,1,1
+A12,213_2,213_2,Milanówek Grudów,213,0,3,1,1
+A1,214_1,214_1,Warszawa Śródmieście WKD,214,1,2,1,1
+A1,214_2,214_2,Warszawa Śródmieście WKD,214,1,2,1,1
+A12,215_1,215_1,Milanówek Grudów,215,0,3,1,1
+A12,215_2,215_2,Milanówek Grudów,215,0,3,1,1
+A1,216_1,216_1,Warszawa Śródmieście WKD,216,1,2,1,1
+A1,216_2,216_2,Warszawa Śródmieście WKD,216,1,2,1,1
+A12,217_1,217_1,Milanówek Grudów,217,0,3,1,1
+A12,217_2,217_2,Milanówek Grudów,217,0,3,1,1
+A1,218_1,218_1,Warszawa Śródmieście WKD,218,1,2,1,1
+A1,218_2,218_2,Warszawa Śródmieście WKD,218,1,2,1,1
+A12,219_1,219_1,Milanówek Grudów,219,0,3,1,1
+A12,219_2,219_2,Milanówek Grudów,219,0,3,1,1
+A12,2200_1,2200_1,Podkowa Leśna Zachodnia,2200,1,4,1,1
+A12,2200_2,2200_2,Podkowa Leśna Zachodnia,2200,1,4,1,1
+A1,2201_1,2201_1,Grodzisk Mazowiecki Radońska,2201,0,5,1,1
+A1,2201_2,2201_2,Grodzisk Mazowiecki Radońska,2201,0,5,1,1
+A1,2202_1,2202_1,Podkowa Leśna Zachodnia,2202,1,6,1,1
+A1,2202_2,2202_2,Podkowa Leśna Zachodnia,2202,1,6,1,1
+A12,2203_1,2203_1,Milanówek Grudów,2203,0,7,1,1
+A12,2203_2,2203_2,Milanówek Grudów,2203,0,7,1,1
+A1,2204_1,2204_1,Podkowa Leśna Zachodnia,2204,1,6,1,1
+A1,2204_2,2204_2,Podkowa Leśna Zachodnia,2204,1,6,1,1
+A12,2205_1,2205_1,Milanówek Grudów,2205,0,7,1,1
+A12,2205_2,2205_2,Milanówek Grudów,2205,0,7,1,1
+A12,2206_1,2206_1,Podkowa Leśna Zachodnia,2206,1,4,1,1
+A12,2206_2,2206_2,Podkowa Leśna Zachodnia,2206,1,4,1,1
+A1,2207_1,2207_1,Grodzisk Mazowiecki Radońska,2207,0,5,1,1
+A1,2207_2,2207_2,Grodzisk Mazowiecki Radońska,2207,0,5,1,1
+A1,220_1,220_1,Warszawa Śródmieście WKD,220,1,2,1,1
+A1,220_2,220_2,Warszawa Śródmieście WKD,220,1,2,1,1
+A12,221_1,221_1,Milanówek Grudów,221,0,3,1,1
+A12,221_2,221_2,Milanówek Grudów,221,0,3,1,1
+A1,222_1,222_1,Warszawa Śródmieście WKD,222,1,2,1,1
+A1,222_2,222_2,Warszawa Śródmieście WKD,222,1,2,1,1
+A12,223_1,223_1,Milanówek Grudów,223,0,3,1,1
+A12,223_2,223_2,Milanówek Grudów,223,0,3,1,1
+A1,224_1,224_1,Warszawa Śródmieście WKD,224,1,2,1,1
+A1,224_2,224_2,Warszawa Śródmieście WKD,224,1,2,1,1
+A12,2250_1,2250_1,Podkowa Leśna Zachodnia,2250,1,4,1,1
+A12,2250_2,2250_2,Podkowa Leśna Zachodnia,2250,1,4,1,1
+A1,2251_1,2251_1,Grodzisk Mazowiecki Radońska,2251,0,5,1,1
+A1,2251_2,2251_2,Grodzisk Mazowiecki Radońska,2251,0,5,1,1
+A12,2252_1,2252_1,Podkowa Leśna Zachodnia,2252,1,4,1,1
+A1,2252_2,2252_2,Podkowa Leśna Zachodnia,2252,1,6,1,1
+A1,2253_1,2253_1,Grodzisk Mazowiecki Radońska,2253,0,5,1,1
+A12,2253_2,2253_2,Milanówek Grudów,2253,0,7,1,1
+A1,2254_1,2254_1,Podkowa Leśna Zachodnia,2254,1,6,1,1
+A1,2254_2,2254_2,Podkowa Leśna Zachodnia,2254,1,6,1,1
+A12,2255_1,2255_1,Milanówek Grudów,2255,0,7,1,1
+A12,2255_2,2255_2,Milanówek Grudów,2255,0,7,1,1
+A1,2256_1,2256_1,Podkowa Leśna Zachodnia,2256,1,6,1,1
+A12,2256_2,2256_2,Podkowa Leśna Zachodnia,2256,1,4,1,1
+A12,2257_1,2257_1,Milanówek Grudów,2257,0,7,1,1
+A1,2257_2,2257_2,Grodzisk Mazowiecki Radońska,2257,0,5,1,1
+A12,225_1,225_1,Milanówek Grudów,225,0,3,1,1
+A12,225_2,225_2,Milanówek Grudów,225,0,3,1,1
+A1,226_1,226_1,Warszawa Śródmieście WKD,226,1,2,1,1
+A1,226_2,226_2,Warszawa Śródmieście WKD,226,1,2,1,1
+A12,227_1,227_1,Milanówek Grudów,227,0,3,1,1
+A12,227_2,227_2,Milanówek Grudów,227,0,3,1,1
+A1,228_1,228_1,Warszawa Śródmieście WKD,228,1,2,1,1
+A1,228_2,228_2,Warszawa Śródmieście WKD,228,1,2,1,1
+A12,229_1,229_1,Milanówek Grudów,229,0,3,1,1
+A12,229_2,229_2,Milanówek Grudów,229,0,3,1,1
+A1,230_1,230_1,Warszawa Śródmieście WKD,230,1,2,1,1
+A1,230_2,230_2,Warszawa Śródmieście WKD,230,1,2,1,1
+A12,231_1,231_1,Milanówek Grudów,231,0,3,1,1
+A12,231_2,231_2,Milanówek Grudów,231,0,3,1,1
+A1,232_1,232_1,Warszawa Śródmieście WKD,232,1,2,1,1
+A1,232_2,232_2,Warszawa Śródmieście WKD,232,1,2,1,1
+A12,233_1,233_1,Milanówek Grudów,233,0,3,1,1
+A12,233_2,233_2,Milanówek Grudów,233,0,3,1,1
+A1,234_1,234_1,Warszawa Śródmieście WKD,234,1,2,1,1
+A1,234_2,234_2,Warszawa Śródmieście WKD,234,1,2,1,1
+A12,235_1,235_1,Milanówek Grudów,235,0,3,1,1
+A12,235_2,235_2,Milanówek Grudów,235,0,3,1,1
+A1,236_1,236_1,Warszawa Śródmieście WKD,236,1,2,1,1
+A1,236_2,236_2,Warszawa Śródmieście WKD,236,1,2,1,1
+A12,237_1,237_1,Milanówek Grudów,237,0,3,1,1
+A12,237_2,237_2,Milanówek Grudów,237,0,3,1,1
+A1,6100_1,6100_1,Warszawa Śródmieście WKD,6100,1,0,1,1
+A1,6100_2,6100_2,Warszawa Śródmieście WKD,6100,1,0,1,1
+A1,6101_1,6101_1,Grodzisk Mazowiecki Radońska,6101,0,1,1,1
+A1,6101_2,6101_2,Grodzisk Mazowiecki Radońska,6101,0,1,1,1
+A1,6102_1,6102_1,Warszawa Śródmieście WKD,6102,1,0,1,1
+A1,6102_2,6102_2,Warszawa Śródmieście WKD,6102,1,0,1,1
+A1,6103_1,6103_1,Grodzisk Mazowiecki Radońska,6103,0,1,1,1
+A1,6103_2,6103_2,Grodzisk Mazowiecki Radońska,6103,0,1,1,1
+A1,6104_1,6104_1,Warszawa Śródmieście WKD,6104,1,0,1,1
+A1,6104_2,6104_2,Warszawa Śródmieście WKD,6104,1,0,1,1
+A1,6105_1,6105_1,Grodzisk Mazowiecki Radońska,6105,0,1,1,1
+A1,6105_2,6105_2,Grodzisk Mazowiecki Radońska,6105,0,1,1,1
+A1,6106_1,6106_1,Warszawa Śródmieście WKD,6106,1,0,1,1
+A1,6106_2,6106_2,Warszawa Śródmieście WKD,6106,1,0,1,1
+A1,6107_1,6107_1,Grodzisk Mazowiecki Radońska,6107,0,1,1,1
+A1,6107_2,6107_2,Grodzisk Mazowiecki Radońska,6107,0,1,1,1
+A1,6108_1,6108_1,Warszawa Śródmieście WKD,6108,1,0,1,1
+A1,6108_2,6108_2,Warszawa Śródmieście WKD,6108,1,0,1,1
+A1,6109_1,6109_1,Grodzisk Mazowiecki Radońska,6109,0,1,1,1
+A1,6109_2,6109_2,Grodzisk Mazowiecki Radońska,6109,0,1,1,1
+A1,6110_1,6110_1,Warszawa Śródmieście WKD,6110,1,0,1,1
+A1,6110_2,6110_2,Warszawa Śródmieście WKD,6110,1,0,1,1
+A1,6111_1,6111_1,Grodzisk Mazowiecki Radońska,6111,0,1,1,1
+A1,6111_2,6111_2,Grodzisk Mazowiecki Radońska,6111,0,1,1,1
+A1,6112_1,6112_1,Warszawa Śródmieście WKD,6112,1,0,1,1
+A1,6112_2,6112_2,Warszawa Śródmieście WKD,6112,1,0,1,1
+A1,6113_1,6113_1,Grodzisk Mazowiecki Radońska,6113,0,1,1,1
+A1,6113_2,6113_2,Grodzisk Mazowiecki Radońska,6113,0,1,1,1
+A1,6114_1,6114_1,Warszawa Śródmieście WKD,6114,1,0,1,1
+A1,6114_2,6114_2,Warszawa Śródmieście WKD,6114,1,0,1,1
+A1,6115_1,6115_1,Grodzisk Mazowiecki Radońska,6115,0,1,1,1
+A1,6115_2,6115_2,Grodzisk Mazowiecki Radońska,6115,0,1,1,1
+A1,6116_1,6116_1,Warszawa Śródmieście WKD,6116,1,0,1,1
+A1,6116_2,6116_2,Warszawa Śródmieście WKD,6116,1,0,1,1
+A1,6117_1,6117_1,Grodzisk Mazowiecki Radońska,6117,0,1,1,1
+A1,6117_2,6117_2,Grodzisk Mazowiecki Radońska,6117,0,1,1,1
+A1,6118_1,6118_1,Warszawa Śródmieście WKD,6118,1,0,1,1
+A1,6118_2,6118_2,Warszawa Śródmieście WKD,6118,1,0,1,1
+A1,6119_1,6119_1,Grodzisk Mazowiecki Radońska,6119,0,1,1,1
+A1,6119_2,6119_2,Grodzisk Mazowiecki Radońska,6119,0,1,1,1
+A1,6120_1,6120_1,Warszawa Śródmieście WKD,6120,1,0,1,1
+A1,6120_2,6120_2,Warszawa Śródmieście WKD,6120,1,0,1,1
+A1,6121_1,6121_1,Grodzisk Mazowiecki Radońska,6121,0,1,1,1
+A1,6121_2,6121_2,Grodzisk Mazowiecki Radońska,6121,0,1,1,1
+A1,6122_1,6122_1,Warszawa Śródmieście WKD,6122,1,0,1,1
+A1,6122_2,6122_2,Warszawa Śródmieście WKD,6122,1,0,1,1
+A1,6123_1,6123_1,Grodzisk Mazowiecki Radońska,6123,0,1,1,1
+A1,6123_2,6123_2,Grodzisk Mazowiecki Radońska,6123,0,1,1,1
+A1,6124_1,6124_1,Warszawa Śródmieście WKD,6124,1,0,1,1
+A1,6124_2,6124_2,Warszawa Śródmieście WKD,6124,1,0,1,1
+A1,6125_1,6125_1,Grodzisk Mazowiecki Radońska,6125,0,1,1,1
+A1,6125_2,6125_2,Grodzisk Mazowiecki Radońska,6125,0,1,1,1
+A1,6126_1,6126_1,Warszawa Śródmieście WKD,6126,1,0,1,1
+A1,6126_2,6126_2,Warszawa Śródmieście WKD,6126,1,0,1,1
+A1,6127_1,6127_1,Grodzisk Mazowiecki Radońska,6127,0,1,1,1
+A1,6127_2,6127_2,Grodzisk Mazowiecki Radońska,6127,0,1,1,1
+A1,6128_1,6128_1,Warszawa Śródmieście WKD,6128,1,0,1,1
+A1,6128_2,6128_2,Warszawa Śródmieście WKD,6128,1,0,1,1
+A1,6129_1,6129_1,Grodzisk Mazowiecki Radońska,6129,0,1,1,1
+A1,6129_2,6129_2,Grodzisk Mazowiecki Radońska,6129,0,1,1,1
+A1,6130_1,6130_1,Warszawa Śródmieście WKD,6130,1,0,1,1
+A1,6130_2,6130_2,Warszawa Śródmieście WKD,6130,1,0,1,1
+A1,6131_1,6131_1,Grodzisk Mazowiecki Radońska,6131,0,1,1,1
+A1,6131_2,6131_2,Grodzisk Mazowiecki Radońska,6131,0,1,1,1
+A1,6132_1,6132_1,Warszawa Śródmieście WKD,6132,1,0,1,1
+A1,6132_2,6132_2,Warszawa Śródmieście WKD,6132,1,0,1,1
+A1,6133_1,6133_1,Grodzisk Mazowiecki Radońska,6133,0,1,1,1
+A1,6133_2,6133_2,Grodzisk Mazowiecki Radońska,6133,0,1,1,1
+A1,6134_1,6134_1,Warszawa Śródmieście WKD,6134,1,0,1,1
+A1,6134_2,6134_2,Warszawa Śródmieście WKD,6134,1,0,1,1
+A1,6135_1,6135_1,Grodzisk Mazowiecki Radońska,6135,0,1,1,1
+A1,6135_2,6135_2,Grodzisk Mazowiecki Radońska,6135,0,1,1,1
+A1,6150_1,6150_1,Warszawa Aleje Jerozolimskie,6150,1,8,1,1
+A1,6150_2,6150_2,Warszawa Aleje Jerozolimskie,6150,1,8,1,1
+A1,6151_1,6151_1,Grodzisk Mazowiecki Radońska,6151,0,9,1,1
+A1,6151_2,6151_2,Grodzisk Mazowiecki Radońska,6151,0,9,1,1
+A1,6152_1,6152_1,Warszawa Aleje Jerozolimskie,6152,1,8,1,1
+A1,6152_2,6152_2,Warszawa Aleje Jerozolimskie,6152,1,8,1,1
+A1,6153_1,6153_1,Grodzisk Mazowiecki Radońska,6153,0,9,1,1
+A1,6153_2,6153_2,Grodzisk Mazowiecki Radońska,6153,0,9,1,1
+A1,6154_1,6154_1,Warszawa Aleje Jerozolimskie,6154,1,8,1,1
+A1,6154_2,6154_2,Warszawa Aleje Jerozolimskie,6154,1,8,1,1
+A1,6155_1,6155_1,Grodzisk Mazowiecki Radońska,6155,0,9,1,1
+A1,6155_2,6155_2,Grodzisk Mazowiecki Radońska,6155,0,9,1,1
+A1,6156_1,6156_1,Warszawa Aleje Jerozolimskie,6156,1,8,1,1
+A1,6156_2,6156_2,Warszawa Aleje Jerozolimskie,6156,1,8,1,1
+A1,6157_1,6157_1,Grodzisk Mazowiecki Radońska,6157,0,9,1,1
+A1,6157_2,6157_2,Grodzisk Mazowiecki Radońska,6157,0,9,1,1
+A1,6158_1,6158_1,Warszawa Aleje Jerozolimskie,6158,1,8,1,1
+A1,6158_2,6158_2,Warszawa Aleje Jerozolimskie,6158,1,8,1,1
+A1,6159_1,6159_1,Grodzisk Mazowiecki Radońska,6159,0,9,1,1
+A1,6159_2,6159_2,Grodzisk Mazowiecki Radońska,6159,0,9,1,1
+A1,6160_1,6160_1,Warszawa Aleje Jerozolimskie,6160,1,8,1,1
+A1,6160_2,6160_2,Warszawa Aleje Jerozolimskie,6160,1,8,1,1
+A1,6161_1,6161_1,Grodzisk Mazowiecki Radońska,6161,0,9,1,1
+A1,6161_2,6161_2,Grodzisk Mazowiecki Radońska,6161,0,9,1,1
+A1,6162_1,6162_1,Warszawa Aleje Jerozolimskie,6162,1,8,1,1
+A1,6162_2,6162_2,Warszawa Aleje Jerozolimskie,6162,1,8,1,1
+A1,6163_1,6163_1,Grodzisk Mazowiecki Radońska,6163,0,9,1,1
+A1,6163_2,6163_2,Grodzisk Mazowiecki Radońska,6163,0,9,1,1
+A1,6164_1,6164_1,Warszawa Aleje Jerozolimskie,6164,1,8,1,1
+A1,6164_2,6164_2,Warszawa Aleje Jerozolimskie,6164,1,8,1,1
+A1,6165_1,6165_1,Grodzisk Mazowiecki Radońska,6165,0,9,1,1
+A1,6165_2,6165_2,Grodzisk Mazowiecki Radońska,6165,0,9,1,1
+A1,6166_1,6166_1,Warszawa Aleje Jerozolimskie,6166,1,8,1,1
+A1,6166_2,6166_2,Warszawa Aleje Jerozolimskie,6166,1,8,1,1
+A1,6167_1,6167_1,Grodzisk Mazowiecki Radońska,6167,0,9,1,1
+A1,6167_2,6167_2,Grodzisk Mazowiecki Radońska,6167,0,9,1,1
+A1,6168_1,6168_1,Warszawa Aleje Jerozolimskie,6168,1,8,1,1
+A1,6168_2,6168_2,Warszawa Aleje Jerozolimskie,6168,1,8,1,1
+A1,6169_1,6169_1,Grodzisk Mazowiecki Radońska,6169,0,9,1,1
+A1,6169_2,6169_2,Grodzisk Mazowiecki Radońska,6169,0,9,1,1
+A1,6170_1,6170_1,Warszawa Aleje Jerozolimskie,6170,1,8,1,1
+A1,6170_2,6170_2,Warszawa Aleje Jerozolimskie,6170,1,8,1,1
+A1,6171_1,6171_1,Grodzisk Mazowiecki Radońska,6171,0,9,1,1
+A1,6171_2,6171_2,Grodzisk Mazowiecki Radońska,6171,0,9,1,1
+A1,6172_1,6172_1,Warszawa Aleje Jerozolimskie,6172,1,8,1,1
+A1,6172_2,6172_2,Warszawa Aleje Jerozolimskie,6172,1,8,1,1
+A1,6173_1,6173_1,Grodzisk Mazowiecki Radońska,6173,0,9,1,1
+A1,6173_2,6173_2,Grodzisk Mazowiecki Radońska,6173,0,9,1,1
+A1,6174_1,6174_1,Warszawa Aleje Jerozolimskie,6174,1,8,1,1
+A1,6174_2,6174_2,Warszawa Aleje Jerozolimskie,6174,1,8,1,1
+A1,6175_1,6175_1,Grodzisk Mazowiecki Radońska,6175,0,9,1,1
+A1,6175_2,6175_2,Grodzisk Mazowiecki Radońska,6175,0,9,1,1
+A1,6176_1,6176_1,Warszawa Aleje Jerozolimskie,6176,1,8,1,1
+A1,6176_2,6176_2,Warszawa Aleje Jerozolimskie,6176,1,8,1,1
+A1,6177_1,6177_1,Grodzisk Mazowiecki Radońska,6177,0,9,1,1
+A1,6177_2,6177_2,Grodzisk Mazowiecki Radońska,6177,0,9,1,1
+A1,6178_1,6178_1,Warszawa Aleje Jerozolimskie,6178,1,8,1,1
+A1,6178_2,6178_2,Warszawa Aleje Jerozolimskie,6178,1,8,1,1
+A1,6179_1,6179_1,Grodzisk Mazowiecki Radońska,6179,0,9,1,1
+A1,6179_2,6179_2,Grodzisk Mazowiecki Radońska,6179,0,9,1,1
+A1,6180_1,6180_1,Warszawa Aleje Jerozolimskie,6180,1,8,1,1
+A1,6180_2,6180_2,Warszawa Aleje Jerozolimskie,6180,1,8,1,1
+A1,6181_1,6181_1,Grodzisk Mazowiecki Radońska,6181,0,9,1,1
+A1,6181_2,6181_2,Grodzisk Mazowiecki Radońska,6181,0,9,1,1
+A1,6182_1,6182_1,Warszawa Aleje Jerozolimskie,6182,1,8,1,1
+A1,6182_2,6182_2,Warszawa Aleje Jerozolimskie,6182,1,8,1,1
+A1,6183_1,6183_1,Grodzisk Mazowiecki Radońska,6183,0,9,1,1
+A1,6183_2,6183_2,Grodzisk Mazowiecki Radońska,6183,0,9,1,1
+A1,6200_1,6200_1,Komorów,6200,1,10,1,1
+A1,6200_2,6200_2,Komorów,6200,1,10,1,1
+A12,6201_1,6201_1,Milanówek Grudów,6201,0,11,1,1
+A12,6201_2,6201_2,Milanówek Grudów,6201,0,11,1,1
+A1,6202_1,6202_1,Komorów,6202,1,10,1,1
+A1,6202_2,6202_2,Komorów,6202,1,10,1,1
+A12,6203_1,6203_1,Milanówek Grudów,6203,0,11,1,1
+A12,6203_2,6203_2,Milanówek Grudów,6203,0,11,1,1
+A1,6204_1,6204_1,Komorów,6204,1,10,1,1
+A1,6204_2,6204_2,Komorów,6204,1,10,1,1
+A12,6205_1,6205_1,Milanówek Grudów,6205,0,11,1,1
+A12,6205_2,6205_2,Milanówek Grudów,6205,0,11,1,1
+A1,6206_1,6206_1,Komorów,6206,1,10,1,1
+A1,6206_2,6206_2,Komorów,6206,1,10,1,1
+A12,6207_1,6207_1,Milanówek Grudów,6207,0,11,1,1
+A12,6207_2,6207_2,Milanówek Grudów,6207,0,11,1,1
+A1,6208_1,6208_1,Komorów,6208,1,10,1,1
+A1,6208_2,6208_2,Komorów,6208,1,10,1,1
+A12,6209_1,6209_1,Milanówek Grudów,6209,0,11,1,1
+A12,6209_2,6209_2,Milanówek Grudów,6209,0,11,1,1
+A1,6210_1,6210_1,Komorów,6210,1,10,1,1
+A1,6210_2,6210_2,Komorów,6210,1,10,1,1
+A12,6211_1,6211_1,Milanówek Grudów,6211,0,11,1,1
+A12,6211_2,6211_2,Milanówek Grudów,6211,0,11,1,1
+A1,6212_1,6212_1,Komorów,6212,1,10,1,1
+A1,6212_2,6212_2,Komorów,6212,1,10,1,1
+A12,6213_1,6213_1,Milanówek Grudów,6213,0,11,1,1
+A12,6213_2,6213_2,Milanówek Grudów,6213,0,11,1,1
+A1,6214_1,6214_1,Komorów,6214,1,10,1,1
+A1,6214_2,6214_2,Komorów,6214,1,10,1,1
+A12,6215_1,6215_1,Milanówek Grudów,6215,0,11,1,1
+A12,6215_2,6215_2,Milanówek Grudów,6215,0,11,1,1
+A1,6216_1,6216_1,Komorów,6216,1,10,1,1
+A1,6216_2,6216_2,Komorów,6216,1,10,1,1
+A12,6217_1,6217_1,Milanówek Grudów,6217,0,11,1,1
+A12,6217_2,6217_2,Milanówek Grudów,6217,0,11,1,1
+A1,6218_1,6218_1,Komorów,6218,1,10,1,1
+A1,6218_2,6218_2,Komorów,6218,1,10,1,1
+A12,6219_1,6219_1,Milanówek Grudów,6219,0,11,1,1
+A12,6219_2,6219_2,Milanówek Grudów,6219,0,11,1,1
+A1,6220_1,6220_1,Komorów,6220,1,10,1,1
+A1,6220_2,6220_2,Komorów,6220,1,10,1,1
+A12,6221_1,6221_1,Milanówek Grudów,6221,0,11,1,1
+A12,6221_2,6221_2,Milanówek Grudów,6221,0,11,1,1
+A1,6222_1,6222_1,Komorów,6222,1,10,1,1
+A1,6222_2,6222_2,Komorów,6222,1,10,1,1
+A12,6223_1,6223_1,Milanówek Grudów,6223,0,11,1,1
+A12,6223_2,6223_2,Milanówek Grudów,6223,0,11,1,1
+A1,6224_1,6224_1,Komorów,6224,1,10,1,1
+A1,6224_2,6224_2,Komorów,6224,1,10,1,1
+A12,6225_1,6225_1,Milanówek Grudów,6225,0,11,1,1
+A12,6225_2,6225_2,Milanówek Grudów,6225,0,11,1,1
+A1,6226_1,6226_1,Komorów,6226,1,10,1,1
+A1,6226_2,6226_2,Komorów,6226,1,10,1,1
+A12,6227_1,6227_1,Milanówek Grudów,6227,0,11,1,1
+A12,6227_2,6227_2,Milanówek Grudów,6227,0,11,1,1
+A1,6228_1,6228_1,Komorów,6228,1,10,1,1
+A1,6228_2,6228_2,Komorów,6228,1,10,1,1
+A12,6229_1,6229_1,Milanówek Grudów,6229,0,11,1,1
+A12,6229_2,6229_2,Milanówek Grudów,6229,0,11,1,1
+A1,6230_1,6230_1,Komorów,6230,1,10,1,1
+A1,6230_2,6230_2,Komorów,6230,1,10,1,1
+A12,6231_1,6231_1,Milanówek Grudów,6231,0,11,1,1
+A12,6231_2,6231_2,Milanówek Grudów,6231,0,11,1,1
+A1,6232_1,6232_1,Komorów,6232,1,10,1,1
+A1,6232_2,6232_2,Komorów,6232,1,10,1,1
+A1,6400_1,6400_1,Komorów,6400,1,12,1,1
+A1,6400_2,6400_2,Komorów,6400,1,12,1,1
+A1,6401_1,6401_1,Grodzisk Mazowiecki Radońska,6401,0,13,1,1
+A1,6401_2,6401_2,Grodzisk Mazowiecki Radońska,6401,0,13,1,1
+A1,6402_1,6402_1,Komorów,6402,1,12,1,1
+A1,6402_2,6402_2,Komorów,6402,1,12,1,1
+A1,6403_1,6403_1,Grodzisk Mazowiecki Radońska,6403,0,13,1,1
+A1,6403_2,6403_2,Grodzisk Mazowiecki Radońska,6403,0,13,1,1
+A1,6404_1,6404_1,Komorów,6404,1,12,1,1
+A1,6404_2,6404_2,Komorów,6404,1,12,1,1
+A1,6405_1,6405_1,Grodzisk Mazowiecki Radońska,6405,0,13,1,1
+A1,6405_2,6405_2,Grodzisk Mazowiecki Radońska,6405,0,13,1,1
+A1,6406_1,6406_1,Komorów,6406,1,12,1,1
+A1,6406_2,6406_2,Komorów,6406,1,12,1,1
+A1,6407_1,6407_1,Grodzisk Mazowiecki Radońska,6407,0,13,1,1
+A1,6407_2,6407_2,Grodzisk Mazowiecki Radońska,6407,0,13,1,1
+A1,6408_1,6408_1,Komorów,6408,1,12,1,1
+A1,6408_2,6408_2,Komorów,6408,1,12,1,1
+A1,6409_1,6409_1,Grodzisk Mazowiecki Radońska,6409,0,13,1,1
+A1,6409_2,6409_2,Grodzisk Mazowiecki Radońska,6409,0,13,1,1
+A1,6410_1,6410_1,Komorów,6410,1,12,1,1
+A1,6410_2,6410_2,Komorów,6410,1,12,1,1
+A1,6411_1,6411_1,Grodzisk Mazowiecki Radońska,6411,0,13,1,1
+A1,6411_2,6411_2,Grodzisk Mazowiecki Radońska,6411,0,13,1,1
+A1,6412_1,6412_1,Komorów,6412,1,12,1,1
+A1,6412_2,6412_2,Komorów,6412,1,12,1,1
+A1,6413_1,6413_1,Grodzisk Mazowiecki Radońska,6413,0,13,1,1
+A1,6413_2,6413_2,Grodzisk Mazowiecki Radońska,6413,0,13,1,1
+A1,6414_1,6414_1,Komorów,6414,1,12,1,1
+A1,6414_2,6414_2,Komorów,6414,1,12,1,1
+A1,6415_1,6415_1,Grodzisk Mazowiecki Radońska,6415,0,13,1,1
+A1,6415_2,6415_2,Grodzisk Mazowiecki Radońska,6415,0,13,1,1
+A1,6416_1,6416_1,Komorów,6416,1,12,1,1
+A1,6416_2,6416_2,Komorów,6416,1,12,1,1
+A1,6417_1,6417_1,Grodzisk Mazowiecki Radońska,6417,0,13,1,1
+A1,6417_2,6417_2,Grodzisk Mazowiecki Radońska,6417,0,13,1,1
+A1,6418_1,6418_1,Komorów,6418,1,12,1,1
+A1,6418_2,6418_2,Komorów,6418,1,12,1,1
+A1,6419_1,6419_1,Grodzisk Mazowiecki Radońska,6419,0,13,1,1
+A1,6419_2,6419_2,Grodzisk Mazowiecki Radońska,6419,0,13,1,1
+A1,6420_1,6420_1,Komorów,6420,1,12,1,1
+A1,6420_2,6420_2,Komorów,6420,1,12,1,1
+A1,6421_1,6421_1,Grodzisk Mazowiecki Radońska,6421,0,13,1,1
+A1,6421_2,6421_2,Grodzisk Mazowiecki Radońska,6421,0,13,1,1
+A1,6422_1,6422_1,Komorów,6422,1,12,1,1
+A1,6422_2,6422_2,Komorów,6422,1,12,1,1
+A1,6423_1,6423_1,Grodzisk Mazowiecki Radońska,6423,0,13,1,1
+A1,6423_2,6423_2,Grodzisk Mazowiecki Radońska,6423,0,13,1,1
+A1,6424_1,6424_1,Komorów,6424,1,12,1,1
+A1,6424_2,6424_2,Komorów,6424,1,12,1,1
+A1,6425_1,6425_1,Grodzisk Mazowiecki Radońska,6425,0,13,1,1
+A1,6425_2,6425_2,Grodzisk Mazowiecki Radońska,6425,0,13,1,1
+A1,6426_1,6426_1,Komorów,6426,1,12,1,1
+A1,6426_2,6426_2,Komorów,6426,1,12,1,1
+A1,6427_1,6427_1,Grodzisk Mazowiecki Radońska,6427,0,13,1,1
+A1,6427_2,6427_2,Grodzisk Mazowiecki Radońska,6427,0,13,1,1
+A1,6428_1,6428_1,Komorów,6428,1,12,1,1
+A1,6428_2,6428_2,Komorów,6428,1,12,1,1
+A1,6429_1,6429_1,Grodzisk Mazowiecki Radońska,6429,0,13,1,1
+A1,6429_2,6429_2,Grodzisk Mazowiecki Radońska,6429,0,13,1,1
+A1,6430_1,6430_1,Komorów,6430,1,12,1,1
+A1,6430_2,6430_2,Komorów,6430,1,12,1,1
+A1,6431_1,6431_1,Grodzisk Mazowiecki Radońska,6431,0,13,1,1
+A1,6431_2,6431_2,Grodzisk Mazowiecki Radońska,6431,0,13,1,1
+A1,6432_1,6432_1,Komorów,6432,1,12,1,1
+A1,6432_2,6432_2,Komorów,6432,1,12,1,1
+A1,6433_1,6433_1,Grodzisk Mazowiecki Radońska,6433,0,13,1,1
+A1,6433_2,6433_2,Grodzisk Mazowiecki Radońska,6433,0,13,1,1
+A1,6435_1,6435_1,Grodzisk Mazowiecki Radońska,6435,0,13,1,1
+A1,6435_2,6435_2,Grodzisk Mazowiecki Radońska,6435,0,13,1,1
+A12,7201_1,7201_1,Milanówek Grudów,7201,0,7,1,1
+A12,7201_2,7201_2,Milanówek Grudów,7201,0,7,1,1
+A1,7300_1,7300_1,Podkowa Leśna Zachodnia,7300,1,6,1,1
+A1,7300_2,7300_2,Podkowa Leśna Zachodnia,7300,1,6,1,1
