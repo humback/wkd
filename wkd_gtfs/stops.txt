@@ -1,12 +1,12 @@
 stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
-brzoz,Brzózki,52.1048841,20.677675,1
-gmjor,Grodzisk Mazowiecki Jordanowice,52.1030389,20.6360364,1
-gmokr,Grodzisk Mazowiecki Okrężna,52.1006961,20.6601977,1
-gmpia,Grodzisk Mazowiecki Piaskowa,52.1025545,20.6515664,1
+brzoz,Brzózki,52.105028,20.678291,1
+gmjor,Grodzisk Mazowiecki Jordanowice,52.103321,20.636794,1
+gmokr,Grodzisk Mazowiecki Okrężna,52.100705,20.659571,1
+gmpia,Grodzisk Mazowiecki Piaskowa,52.102753,20.651098,1
 gmrad,Grodzisk Mazowiecki Radońska,52.100645,20.628435,1
 kanie,Kanie Helenowskie,52.1316424,20.7742801,1
-kazim,Kazimierówka,52.111088,20.6983763,1
-komor,Komorów,52.1481518,20.8113778,1
+kazim,Kazimierówka,52.110843,20.697971,1
+komor,Komorów,52.148087,20.811352,1
 malic,Malichy,52.1693915,20.8411556,1
 micha,Michałowice,52.1753726,20.8812869,1
 milgr,Milanówek Grudów,52.12226923002,20.6822946245,1
@@ -15,8 +15,9 @@ opacz,Opacz,52.1813825,20.9046328,1
 otreb,Otrębusy,52.1263816,20.7615852,1
 plglo,Podkowa Leśna Główna,52.1223734,20.7251796,1
 plwsc,Podkowa Leśna Wschodnia,52.1237864,20.7384324,1
-plzac,Podkowa Leśna Zachodnia,52.1207776,20.7116318,1
+plzac,Podkowa Leśna Zachodnia,52.120887,20.712148,1
 poles,Polesie,52.121852,20.697222,1
+prusp,Pruszków PKP,52.1682532,20.7988684,0
 prusz,Pruszków WKD,52.1616392,20.8166108,1
 regul,Reguły,52.1704016,20.8590621,1
 twork,Tworki,52.1690033,20.8232948,1
