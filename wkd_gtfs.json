@@ -2,9 +2,145 @@
   "header": {
     "gtfsRealtimeVersion": "2.0",
     "incrementality": "FULL_DATASET",
-    "timestamp": "1767686354"
+    "timestamp": "1767687055"
   },
   "entity": [
+    {
+      "id": "1023_1",
+      "tripUpdate": {
+        "trip": {
+          "tripId": "1023_1"
+        },
+        "stopTimeUpdate": [
+          {
+            "departure": {
+              "time": "1767687060"
+            },
+            "stopId": "wrako"
+          },
+          {
+            "departure": {
+              "time": "1767687180"
+            },
+            "stopId": "wsalo"
+          },
+          {
+            "departure": {
+              "time": "1767687300"
+            },
+            "stopId": "opacz"
+          },
+          {
+            "departure": {
+              "time": "1767687480"
+            },
+            "stopId": "micha"
+          },
+          {
+            "departure": {
+              "time": "1767687600"
+            },
+            "stopId": "regul"
+          },
+          {
+            "departure": {
+              "time": "1767687720"
+            },
+            "stopId": "malic"
+          },
+          {
+            "departure": {
+              "time": "1767687900"
+            },
+            "stopId": "twork"
+          },
+          {
+            "departure": {
+              "time": "1767688020"
+            },
+            "stopId": "prusz"
+          },
+          {
+            "departure": {
+              "time": "1767688200"
+            },
+            "stopId": "komor"
+          },
+          {
+            "departure": {
+              "time": "1767688320"
+            },
+            "stopId": "nwwar"
+          },
+          {
+            "departure": {
+              "time": "1767688440"
+            },
+            "stopId": "kanie"
+          },
+          {
+            "departure": {
+              "time": "1767688560"
+            },
+            "stopId": "otreb"
+          },
+          {
+            "departure": {
+              "time": "1767688680"
+            },
+            "stopId": "plwsc"
+          },
+          {
+            "departure": {
+              "time": "1767688800"
+            },
+            "stopId": "plglo"
+          },
+          {
+            "departure": {
+              "time": "1767688920"
+            },
+            "stopId": "plzac"
+          },
+          {
+            "departure": {
+              "time": "1767689040"
+            },
+            "stopId": "kazim"
+          },
+          {
+            "departure": {
+              "time": "1767689160"
+            },
+            "stopId": "brzoz"
+          },
+          {
+            "departure": {
+              "time": "1767689280"
+            },
+            "stopId": "gmokr"
+          },
+          {
+            "departure": {
+              "time": "1767689340"
+            },
+            "stopId": "gmpia"
+          },
+          {
+            "departure": {
+              "time": "1767689460"
+            },
+            "stopId": "gmjor"
+          },
+          {
+            "departure": {
+              "time": "1767689580"
+            },
+            "stopId": "gmrad"
+          }
+        ]
+      }
+    },
     {
       "id": "1021_1",
       "tripUpdate": {
@@ -14,51 +150,251 @@
         "stopTimeUpdate": [
           {
             "departure": {
-              "time": "1767686400"
-            },
-            "stopId": "plglo"
-          },
-          {
-            "departure": {
-              "time": "1767686520"
-            },
-            "stopId": "plzac"
-          },
-          {
-            "departure": {
-              "time": "1767686640"
-            },
-            "stopId": "kazim"
-          },
-          {
-            "departure": {
-              "time": "1767686760"
-            },
-            "stopId": "brzoz"
-          },
-          {
-            "departure": {
-              "time": "1767686880"
+              "time": "1767687000"
             },
             "stopId": "gmokr"
           },
           {
             "departure": {
-              "time": "1767686940"
+              "time": "1767687060"
             },
             "stopId": "gmpia"
           },
           {
             "departure": {
-              "time": "1767687060"
+              "time": "1767687180"
             },
             "stopId": "gmjor"
           },
           {
             "departure": {
-              "time": "1767687180"
+              "time": "1767687300"
             },
             "stopId": "gmrad"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2009_1",
+      "tripUpdate": {
+        "trip": {
+          "tripId": "2009_1"
+        },
+        "stopTimeUpdate": [
+          {
+            "departure": {
+              "time": "1767687120"
+            },
+            "stopId": "nwwar"
+          },
+          {
+            "departure": {
+              "time": "1767687240"
+            },
+            "stopId": "kanie"
+          },
+          {
+            "departure": {
+              "time": "1767687360"
+            },
+            "stopId": "otreb"
+          },
+          {
+            "departure": {
+              "time": "1767687480"
+            },
+            "stopId": "plwsc"
+          },
+          {
+            "departure": {
+              "time": "1767687600"
+            },
+            "stopId": "plglo"
+          },
+          {
+            "departure": {
+              "time": "1767687720"
+            },
+            "stopId": "plzac"
+          },
+          {
+            "departure": {
+              "time": "1767687840"
+            },
+            "stopId": "poles"
+          },
+          {
+            "departure": {
+              "time": "1767688020"
+            },
+            "stopId": "milgr"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1022_1",
+      "tripUpdate": {
+        "trip": {
+          "tripId": "1022_1"
+        },
+        "stopTimeUpdate": [
+          {
+            "departure": {
+              "time": "1767687600"
+            },
+            "stopId": "gmrad"
+          },
+          {
+            "departure": {
+              "time": "1767687720"
+            },
+            "stopId": "gmjor"
+          },
+          {
+            "departure": {
+              "time": "1767687840"
+            },
+            "stopId": "gmpia"
+          },
+          {
+            "departure": {
+              "time": "1767687900"
+            },
+            "stopId": "gmokr"
+          },
+          {
+            "departure": {
+              "time": "1767688020"
+            },
+            "stopId": "brzoz"
+          },
+          {
+            "departure": {
+              "time": "1767688140"
+            },
+            "stopId": "kazim"
+          },
+          {
+            "departure": {
+              "time": "1767688260"
+            },
+            "stopId": "plzac"
+          },
+          {
+            "departure": {
+              "time": "1767688380"
+            },
+            "stopId": "plglo"
+          },
+          {
+            "departure": {
+              "time": "1767688500"
+            },
+            "stopId": "plwsc"
+          },
+          {
+            "departure": {
+              "time": "1767688620"
+            },
+            "stopId": "otreb"
+          },
+          {
+            "departure": {
+              "time": "1767688740"
+            },
+            "stopId": "kanie"
+          },
+          {
+            "departure": {
+              "time": "1767688860"
+            },
+            "stopId": "nwwar"
+          },
+          {
+            "departure": {
+              "time": "1767689040"
+            },
+            "stopId": "komor"
+          },
+          {
+            "departure": {
+              "time": "1767689160"
+            },
+            "stopId": "prusz"
+          },
+          {
+            "departure": {
+              "time": "1767689280"
+            },
+            "stopId": "twork"
+          },
+          {
+            "departure": {
+              "time": "1767689400"
+            },
+            "stopId": "malic"
+          },
+          {
+            "departure": {
+              "time": "1767689520"
+            },
+            "stopId": "regul"
+          },
+          {
+            "departure": {
+              "time": "1767689640"
+            },
+            "stopId": "micha"
+          },
+          {
+            "departure": {
+              "time": "1767689820"
+            },
+            "stopId": "opacz"
+          },
+          {
+            "departure": {
+              "time": "1767689940"
+            },
+            "stopId": "wsalo"
+          },
+          {
+            "departure": {
+              "time": "1767690060"
+            },
+            "stopId": "wrako"
+          },
+          {
+            "departure": {
+              "time": "1767690180"
+            },
+            "stopId": "walje"
+          },
+          {
+            "departure": {
+              "time": "1767690300"
+            },
+            "stopId": "wreor"
+          },
+          {
+            "departure": {
+              "time": "1767690480"
+            },
+            "stopId": "wzach"
+          },
+          {
+            "departure": {
+              "time": "1767690600"
+            },
+            "stopId": "wocho"
+          },
+          {
+            "departure": {
+              "time": "1767690780"
+            },
+            "stopId": "wsrod"
           }
         ]
       }
@@ -70,48 +406,6 @@
           "tripId": "1020_1"
         },
         "stopTimeUpdate": [
-          {
-            "departure": {
-              "time": "1767686340"
-            },
-            "stopId": "kanie"
-          },
-          {
-            "departure": {
-              "time": "1767686460"
-            },
-            "stopId": "nwwar"
-          },
-          {
-            "departure": {
-              "time": "1767686640"
-            },
-            "stopId": "komor"
-          },
-          {
-            "departure": {
-              "time": "1767686760"
-            },
-            "stopId": "prusz"
-          },
-          {
-            "departure": {
-              "time": "1767686880"
-            },
-            "stopId": "twork"
-          },
-          {
-            "departure": {
-              "time": "1767687000"
-            },
-            "stopId": "malic"
-          },
-          {
-            "departure": {
-              "time": "1767687120"
-            },
-            "stopId": "regul"
-          },
           {
             "departure": {
               "time": "1767687240"
@@ -165,6 +459,188 @@
               "time": "1767688380"
             },
             "stopId": "wsrod"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1018_1",
+      "tripUpdate": {
+        "trip": {
+          "tripId": "1018_1"
+        },
+        "stopTimeUpdate": [
+          {
+            "departure": {
+              "time": "1767687180"
+            },
+            "stopId": "wsrod"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1025_1",
+      "tripUpdate": {
+        "trip": {
+          "tripId": "1025_1"
+        },
+        "stopTimeUpdate": [
+          {
+            "departure": {
+              "time": "1767687600"
+            },
+            "stopId": "wsrod"
+          },
+          {
+            "departure": {
+              "time": "1767687720"
+            },
+            "stopId": "wocho"
+          },
+          {
+            "departure": {
+              "time": "1767687900"
+            },
+            "stopId": "wzach"
+          },
+          {
+            "departure": {
+              "time": "1767688020"
+            },
+            "stopId": "wreor"
+          },
+          {
+            "departure": {
+              "time": "1767688140"
+            },
+            "stopId": "walje"
+          },
+          {
+            "departure": {
+              "time": "1767688260"
+            },
+            "stopId": "wrako"
+          },
+          {
+            "departure": {
+              "time": "1767688380"
+            },
+            "stopId": "wsalo"
+          },
+          {
+            "departure": {
+              "time": "1767688500"
+            },
+            "stopId": "opacz"
+          },
+          {
+            "departure": {
+              "time": "1767688680"
+            },
+            "stopId": "micha"
+          },
+          {
+            "departure": {
+              "time": "1767688800"
+            },
+            "stopId": "regul"
+          },
+          {
+            "departure": {
+              "time": "1767688920"
+            },
+            "stopId": "malic"
+          },
+          {
+            "departure": {
+              "time": "1767689100"
+            },
+            "stopId": "twork"
+          },
+          {
+            "departure": {
+              "time": "1767689220"
+            },
+            "stopId": "prusz"
+          },
+          {
+            "departure": {
+              "time": "1767689400"
+            },
+            "stopId": "komor"
+          },
+          {
+            "departure": {
+              "time": "1767689520"
+            },
+            "stopId": "nwwar"
+          },
+          {
+            "departure": {
+              "time": "1767689640"
+            },
+            "stopId": "kanie"
+          },
+          {
+            "departure": {
+              "time": "1767689760"
+            },
+            "stopId": "otreb"
+          },
+          {
+            "departure": {
+              "time": "1767689880"
+            },
+            "stopId": "plwsc"
+          },
+          {
+            "departure": {
+              "time": "1767690000"
+            },
+            "stopId": "plglo"
+          },
+          {
+            "departure": {
+              "time": "1767690120"
+            },
+            "stopId": "plzac"
+          },
+          {
+            "departure": {
+              "time": "1767690240"
+            },
+            "stopId": "kazim"
+          },
+          {
+            "departure": {
+              "time": "1767690360"
+            },
+            "stopId": "brzoz"
+          },
+          {
+            "departure": {
+              "time": "1767690480"
+            },
+            "stopId": "gmokr"
+          },
+          {
+            "departure": {
+              "time": "1767690540"
+            },
+            "stopId": "gmpia"
+          },
+          {
+            "departure": {
+              "time": "1767690660"
+            },
+            "stopId": "gmjor"
+          },
+          {
+            "departure": {
+              "time": "1767690780"
+            },
+            "stopId": "gmrad"
           }
         ]
       }
@@ -307,306 +783,6 @@
               "time": "1767689580"
             },
             "stopId": "wsrod"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1018_1",
-      "tripUpdate": {
-        "trip": {
-          "tripId": "1018_1"
-        },
-        "stopTimeUpdate": [
-          {
-            "departure": {
-              "time": "1767686460"
-            },
-            "stopId": "wrako"
-          },
-          {
-            "departure": {
-              "time": "1767686580"
-            },
-            "stopId": "walje"
-          },
-          {
-            "departure": {
-              "time": "1767686700"
-            },
-            "stopId": "wreor"
-          },
-          {
-            "departure": {
-              "time": "1767686880"
-            },
-            "stopId": "wzach"
-          },
-          {
-            "departure": {
-              "time": "1767687000"
-            },
-            "stopId": "wocho"
-          },
-          {
-            "departure": {
-              "time": "1767687180"
-            },
-            "stopId": "wsrod"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2009_1",
-      "tripUpdate": {
-        "trip": {
-          "tripId": "2009_1"
-        },
-        "stopTimeUpdate": [
-          {
-            "departure": {
-              "time": "1767686400"
-            },
-            "stopId": "regul"
-          },
-          {
-            "departure": {
-              "time": "1767686520"
-            },
-            "stopId": "malic"
-          },
-          {
-            "departure": {
-              "time": "1767686700"
-            },
-            "stopId": "twork"
-          },
-          {
-            "departure": {
-              "time": "1767686820"
-            },
-            "stopId": "prusz"
-          },
-          {
-            "departure": {
-              "time": "1767687000"
-            },
-            "stopId": "komor"
-          },
-          {
-            "departure": {
-              "time": "1767687120"
-            },
-            "stopId": "nwwar"
-          },
-          {
-            "departure": {
-              "time": "1767687240"
-            },
-            "stopId": "kanie"
-          },
-          {
-            "departure": {
-              "time": "1767687360"
-            },
-            "stopId": "otreb"
-          },
-          {
-            "departure": {
-              "time": "1767687480"
-            },
-            "stopId": "plwsc"
-          },
-          {
-            "departure": {
-              "time": "1767687600"
-            },
-            "stopId": "plglo"
-          },
-          {
-            "departure": {
-              "time": "1767687720"
-            },
-            "stopId": "plzac"
-          },
-          {
-            "departure": {
-              "time": "1767687840"
-            },
-            "stopId": "poles"
-          },
-          {
-            "departure": {
-              "time": "1767688020"
-            },
-            "stopId": "milgr"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1023_1",
-      "tripUpdate": {
-        "trip": {
-          "tripId": "1023_1"
-        },
-        "stopTimeUpdate": [
-          {
-            "departure": {
-              "time": "1767686400"
-            },
-            "stopId": "wsrod"
-          },
-          {
-            "departure": {
-              "time": "1767686520"
-            },
-            "stopId": "wocho"
-          },
-          {
-            "departure": {
-              "time": "1767686700"
-            },
-            "stopId": "wzach"
-          },
-          {
-            "departure": {
-              "time": "1767686820"
-            },
-            "stopId": "wreor"
-          },
-          {
-            "departure": {
-              "time": "1767686940"
-            },
-            "stopId": "walje"
-          },
-          {
-            "departure": {
-              "time": "1767687060"
-            },
-            "stopId": "wrako"
-          },
-          {
-            "departure": {
-              "time": "1767687180"
-            },
-            "stopId": "wsalo"
-          },
-          {
-            "departure": {
-              "time": "1767687300"
-            },
-            "stopId": "opacz"
-          },
-          {
-            "departure": {
-              "time": "1767687480"
-            },
-            "stopId": "micha"
-          },
-          {
-            "departure": {
-              "time": "1767687600"
-            },
-            "stopId": "regul"
-          },
-          {
-            "departure": {
-              "time": "1767687720"
-            },
-            "stopId": "malic"
-          },
-          {
-            "departure": {
-              "time": "1767687900"
-            },
-            "stopId": "twork"
-          },
-          {
-            "departure": {
-              "time": "1767688020"
-            },
-            "stopId": "prusz"
-          },
-          {
-            "departure": {
-              "time": "1767688200"
-            },
-            "stopId": "komor"
-          },
-          {
-            "departure": {
-              "time": "1767688320"
-            },
-            "stopId": "nwwar"
-          },
-          {
-            "departure": {
-              "time": "1767688440"
-            },
-            "stopId": "kanie"
-          },
-          {
-            "departure": {
-              "time": "1767688560"
-            },
-            "stopId": "otreb"
-          },
-          {
-            "departure": {
-              "time": "1767688680"
-            },
-            "stopId": "plwsc"
-          },
-          {
-            "departure": {
-              "time": "1767688800"
-            },
-            "stopId": "plglo"
-          },
-          {
-            "departure": {
-              "time": "1767688920"
-            },
-            "stopId": "plzac"
-          },
-          {
-            "departure": {
-              "time": "1767689040"
-            },
-            "stopId": "kazim"
-          },
-          {
-            "departure": {
-              "time": "1767689160"
-            },
-            "stopId": "brzoz"
-          },
-          {
-            "departure": {
-              "time": "1767689280"
-            },
-            "stopId": "gmokr"
-          },
-          {
-            "departure": {
-              "time": "1767689340"
-            },
-            "stopId": "gmpia"
-          },
-          {
-            "departure": {
-              "time": "1767689460"
-            },
-            "stopId": "gmjor"
-          },
-          {
-            "departure": {
-              "time": "1767689580"
-            },
-            "stopId": "gmrad"
           }
         ]
       }
