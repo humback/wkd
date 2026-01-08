@@ -73,7 +73,7 @@ def departures():
     stop_times_path = os.path.join(
         os.path.dirname(__file__), "wkd_gtfs", "stop_times.txt"
     )
-    now = datetime.now()
+    now = datetime.now(ZoneInfo("Europe/Warsaw"))
     schedule = {"Grodzisk/Milanówek": [], "Warszawa": []}
     # For each trip, find its last stop_id (destination)
     trip_dest = {}
