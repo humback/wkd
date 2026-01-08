@@ -24,8 +24,27 @@ departures_bp = Blueprint("departures", __name__)
 @departures_bp.route("/departures", methods=["GET"])
 def departures():
     stop_id = request.args.get("stop_id")
+    direction_param = request.args.get("direction")
     if not stop_id:
         return jsonify({"error": "stop_id parameter is required"}), 400
+    if direction_param:
+        direction_param = direction_param.strip().lower()
+        if direction_param in ["warszawa", "wawa"]:
+            direction_filter = "Warszawa"
+        elif direction_param in [
+            "grodzisk",
+            "milanówek",
+            "milanowek",
+            "grodzisk/milanówek",
+            "grodzisk/milanowek",
+        ]:
+            direction_filter = "Grodzisk/Milanówek"
+        else:
+            return jsonify(
+                {"error": "Invalid direction parameter. Use 'Warszawa' or 'Grodzisk'"}
+            ), 400
+    else:
+        direction_filter = None
 
     # 1. Parse calendar_dates.txt for today's valid trips
     today_str = datetime.now().strftime("%Y%m%d")
@@ -147,9 +166,18 @@ def departures():
             "destination_stop_name": trip["destination_stop_name"],
         }
 
-    result = {
-        "stop_id": stop_id,
-        "Grodzisk_Milanowek": [enrich(x) for x in schedule["Grodzisk/Milanówek"]],
-        "Warszawa": [enrich(x) for x in schedule["Warszawa"]],
-    }
+    if direction_filter:
+        # Only return the selected direction
+        filtered = schedule[direction_filter]
+        result = {
+            "stop_id": stop_id,
+            "direction": direction_filter,
+            "departures": [enrich(x) for x in filtered],
+        }
+    else:
+        result = {
+            "stop_id": stop_id,
+            "Grodzisk_Milanowek": [enrich(x) for x in schedule["Grodzisk/Milanówek"]],
+            "Warszawa": [enrich(x) for x in schedule["Warszawa"]],
+        }
     return jsonify(result)
