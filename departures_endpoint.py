@@ -4,6 +4,7 @@ import csv
 import os
 from datetime import datetime, timedelta
 from src.gtfs_parser import GTFSParser
+from zoneinfo import ZoneInfo
 
 
 def get_direction_by_tripid(trip_id):
@@ -47,7 +48,7 @@ def departures():
         direction_filter = None
 
     # 1. Parse calendar_dates.txt for today's valid trips
-    today_str = datetime.now().strftime("%Y%m%d")
+    today_str = datetime.now(ZoneInfo("Europe/Warsaw")).strftime("%Y%m%d")
     calendar_path = os.path.join(
         os.path.dirname(__file__), "wkd_gtfs", "calendar_dates.txt"
     )

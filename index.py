@@ -1,11 +1,7 @@
-import datetime
-from flask import Flask, request
-from flask import jsonify
-from flask import Response
-import pandas as pd
+from flask import Flask
 import wkd_json_final
 import station_list
-import json
+from departures_endpoint import departures_bp
 
 
 app = Flask(__name__)
@@ -17,12 +13,12 @@ from departures_endpoint import departures_bp
 app.register_blueprint(departures_bp)
 
 
-@app.route("/delay", methods=["GET"])
-def hello():
-    station = request.args.get("station")
-    direction = request.args.get("dir")
-    df = wkd_json_final.gtfsRtUpdate(station, direction)
-    return jsonify(df)
+# @app.route("/delay", methods=["GET"])
+# def hello():
+#     station = request.args.get("station")
+#     direction = request.args.get("dir")
+#     df = wkd_json_final.gtfsRtUpdate(station, direction)
+#     return jsonify(df)
 
 
 @app.route("/", methods=["GET"])
